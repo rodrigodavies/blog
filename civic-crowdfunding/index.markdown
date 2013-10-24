@@ -17,31 +17,31 @@ You can subscribe to email updates on the project below, or follow the [#civicc
 </form>
 </p>
 
-The posts below are from my blog unless otherwise stated, and are a selection taken from the [crowdfunding tag](http://rodrigodavies.com/blog/tag/crowdfunding/). Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
+The posts below are from my blog unless otherwise stated, and are a selection taken from the [crowdfunding tag]( /tag/crowdfunding/). Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
 
 **Theory and history of crowdfunding**
 	
-  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](http://rodrigodavies.com/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding/)
+  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding/)
 
-  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)](http://rodrigodavies.com/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents/)
+  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)]( /2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents/)
 
-  * [Four roles (civic) organizations can play in crowdfunding](http://rodrigodavies.com/blog/2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding/)
+  * [Four roles (civic) organizations can play in crowdfunding]( /2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding/)
 
-  * [Where does civic crowdfunding fit on a city’s roadmap?](http://rodrigodavies.com/blog/2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap/)
+  * [Where does civic crowdfunding fit on a city’s roadmap?]( /2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap/)
 
-  * [Civic crowdfunding from the Statue of Liberty onwards](http://rodrigodavies.com/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/)
+  * [Civic crowdfunding from the Statue of Liberty onwards]( /2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/)
 	
-  * [Civic crowdfunding is a windfall for participation first, budgets second](http://rodrigodavies.com/blog/2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/)
+  * [Civic crowdfunding is a windfall for participation first, budgets second]( /2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/)
 
 
 **Crowdfunding case studies**
 	
-  * [What’s wrong with crowdfunding your own security?](http://rodrigodavies.com/blog/2013/10/10/whats-wrong-with-crowdfunding-your-own-security/)
+  * [What’s wrong with crowdfunding your own security?]( /2013/10/10/whats-wrong-with-crowdfunding-your-own-security/)
 	
-  * [How to crowdfund a million-dollar arts project](http://rodrigodavies.com/blog/2013/09/16/how-to-crowdfund-a-million-dollar-arts-project/)
+  * [How to crowdfund a million-dollar arts project]( /2013/09/16/how-to-crowdfund-a-million-dollar-arts-project/)
 	
-  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry](http://rodrigodavies.com/blog/2013/05/22/crowdfunding-on-crack/)
+  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry]( /2013/05/22/crowdfunding-on-crack/)
 	
   * ["The Statue of Liberty and America's crowdfunding pioneer"](http://www.bbc.co.uk/news/magazine-21932675), BBC News, April 2013
 
