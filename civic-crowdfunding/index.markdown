@@ -1,8 +1,7 @@
 ---
 author: rodrigodavies
 comments: false
-date: 2013-10-12 21:31:51+00:00
-layout: post
+layout: page
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 wordpress_id: 814

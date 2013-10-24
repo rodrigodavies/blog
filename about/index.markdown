@@ -1,8 +1,7 @@
 ---
 author: rodrigodavies
 comments: true
-date: 2012-01-24 05:51:34+00:00
-layout: post
+layout: page
 slug: about
 title: About
 wordpress_id: 323
