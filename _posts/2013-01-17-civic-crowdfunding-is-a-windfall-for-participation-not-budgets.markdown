@@ -1,0 +1,24 @@
+---
+author: rodrigodavies
+comments: true
+date: 2013-01-17 05:22:31+00:00
+layout: post
+slug: civic-crowdfunding-is-a-windfall-for-participation-not-budgets
+title: Civic crowdfunding is a windfall for participation first, budgets second
+wordpress_id: 487
+---
+
+[![Mansfield town centre, by Martine Hamilton-Knight](http://rodrigodavies.com/blog/wp-content/uploads/2013/01/mansfield.png)](http://rodrigodavies.com/blog/2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/mansfield/)
+
+Critics of civic crowdfunding sometimes suggest it subverts government and civil society, and risks replacing existing institutions with an ecosystem of community pressure groups - among whom only the wealthiest and loudest will triumph. The moment that [Kickstarter's arts fundraising overtook the US National Endowment for the Arts](http://idealab.talkingpointsmemo.com/2012/02/the-nea-responds-to-kickstarter-funding-debate.php), for instance, was seen by some as a sign that civic organisations' ability to remain relevant was under threat from an army of loosely connected individuals with money to spend.
+
+Some of this bias in the discourse is perhaps rooted in the fact that, particularly in the US, many of the voices in favour of crowdfunding are focused on enabling individuals to own an equity stake in the companies they fund - [a SEC regulation change that was due this month but is expected to be delayed](http://online.wsj.com/article/SB10001424127887324339204578173731988591450.html). It's an important consideration when you're crowdfunding a private company, of course, but it's not a model that fits civic crowdfunding. Allowing the public to be initiators in the planning process and contribute towards the funding of projects they're passionate about does not mean transferring public property into private hands, and neither does it mean shifting the burden of investment (or ownership) away from government and onto individuals.
+
+Let's be clear: in a crowdfunding campaign for a large public development, it's not reasonable or desirable to expect individuals to fund the majority of the project. It's not necessary, either. Many local governments, public agencies, foundations and other philanthropic organizations would welcome direct involvement from local communities in deciding how and where to invest. That's not a donation cheque, but it will help them to invest the resources they have more efficiently, and may spark interest from the business community. Meanwhile, by giving communities the chance to propose projects and raise money from all sources, crowdfunding enables a powerful kind of symbolic participation, and compels individuals to connect with decision-makers and subject experts across government, business and philanthropy to realise their ambitions. That's quite the opposite of undermining organisations like the NEA: they become essential knowledge centres in the ecosystem. On a crowdfunding platform, an organisation like the NEA can activate its own initiatives, encourage communities to start projects that fit the goals of those initiatives, and also advise grassroots campaigns working on other projects that come to its attention.
+
+Spacehive, a UK crowdfunding platform I work with, is developing a partnership model that reflects these priorities. This year [a partnership with the Association of Town Centre Managers](http://spacehive.com/initiatives/towncentres), whose members are responsible for 600 towns across the UK - is expected to raise £3M ($4.8M) for projects under the banner of high street regeneration. Through the initiative [ATCM is able to provide expertise and strategic support to community-led campaigns](http://www.youtube.com/watch?v=uLqPWKgyM3s) and acts as the contracted delivery partner to ensure that projects are viable and are executed efficiently. The initiative has attracted £100,000 of match-funding from Experian, and is backed by Department for Communities and Local Government as well as Business In The Community, Boots, Deloitte, the British Property Federation, Royal Institute of British Architects, Meanwhile Space, BIG Lottery Fund and Locality.
+
+This model has the potential to make crowdfunding truly participatory, and a powerful tool to bolster civil society and build partnerships between communities, governments and civic organisations. For the individual, pledging to a crowdfunding campaign can be a symbolic act of participation and a way to engage. [I'll be arguing at SXSW 2013](http://schedule.sxsw.com/2013/events/event_IAP984) that we shouldn't expect communities to save government budgets, but we should open up the future of cities, towns and villages to the people that make them great.
+
+_Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/civic-crowdfunding-is-a-windfall-for-participation-first-budgets-second)
+_

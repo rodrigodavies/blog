@@ -1,0 +1,23 @@
+---
+author: rodrigodavies
+comments: true
+date: 2012-03-17 16:19:23+00:00
+layout: post
+slug: occupy-2-0
+title: Occupy 2.0
+wordpress_id: 13
+categories:
+- communities
+- media
+- technology
+tags:
+- mapping
+- new media
+- occupy
+- social media
+- wsj
+---
+
+The WSJ on how the Occupy movement is going beyond social media and developing new media - including video streaming, mapping and DIY its owns wi-fi networks.
+
+[http://online.wsj.com/article/SB10001424052702304459804577285793322092600.html?mod=WSJ_NY_LEFTTopStories](http://online.wsj.com/article/SB10001424052702304459804577285793322092600.html?mod=WSJ_NY_LEFTTopStories)

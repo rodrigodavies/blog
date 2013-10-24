@@ -1,0 +1,23 @@
+---
+layout: default
+title: Rodrigo Davies
+---
+
+<div id="home">
+	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="meta">{{ post.date | date_to_string }}</p>
+
+	<div class="post">
+  		{{ content }}
+	</div>
+
+        <div class="footer">
+<div class="pagination">
+		{% for post in site.posts limit: 1 %}
+            <a href="{{post.previous.url}}" title="Previous Post: 
+      	{{page.previous.title}}"> &laquo; Previous Post: {{post.previous.title}}</a> 
+      	{% endfor %}
+
+</div>
