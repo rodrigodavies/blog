@@ -15,9 +15,9 @@ title: Rodrigo Davies
 
         <div class="footer">
 <div class="pagination">
-		{% for post in site.posts limit: 1 %}
-            <a href="{{post.previous.url}}" title="Previous Post: 
-      	{{page.previous.title}}"> &laquo; Previous Post: {{post.previous.title}}</a> 
+		{% for post in site.posts limit:1 %}
+			{% if post.previous %}
+            <a href="{{post.previous.url}}"> &laquo; Previous Post: {{post.previous.title}}</a> 
+      	{% endif %}
       	{% endfor %}
-
 </div>
