@@ -19,7 +19,7 @@ layout: default
 
             <div class="right"> 
               {% if page.next.url %} 
-                <a href="{{page.next.url}}" title="{{page.next.title}}">Next Post: {{page.next.title}} &raquo; </a> 
+                <a href="{{ site.baseurl }}{{page.next.url}}" title="{{ site.baseurl }}{{page.next.title}}">Next Post: {{page.next.title}} &raquo; </a> 
              {% endif %} 
             </div> 
           </div> 
