@@ -6,10 +6,6 @@ layout: post
 slug: whats-wrong-with-crowdfunding-your-own-security
 title: What's wrong with crowdfunding your own security?
 wordpress_id: 797
-categories:
-- civic crowdfunding
-- communities
-- governance
 tags:
 - civic crowdfunding
 - crowdfunding
