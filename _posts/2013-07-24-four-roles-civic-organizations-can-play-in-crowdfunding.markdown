@@ -44,4 +44,4 @@ But the best existing platforms provide many other social and strategic layers t
 
 Pretty soon every individual and group that wants to try crowdfunding will do so. Civic organizations would do well to focus on the social and strategic aspects of the process in deciding which route into crowdfunding makes sense for their projects. The next question I'd like to think about is the outcome of those roles, the civic functions that crowdfunding projects can perform - but that's a topic for another talk.
 
-My slides are available [here](http://www.rodrigodavies.com/ccf/LoC_presentation_RD.pdf) (PDF).
+My slides are available [here](/blog/civic-crowdfunding/LoC_presentation_RD.pdf) (PDF).
