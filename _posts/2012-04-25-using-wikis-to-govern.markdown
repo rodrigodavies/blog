@@ -6,7 +6,6 @@ layout: post
 slug: using-wikis-to-govern
 title: Using Wikis to govern
 wordpress_id: 192
-- technology
 tags:
 - anupam saraph
 - baner balewadi
