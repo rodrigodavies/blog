@@ -6,10 +6,6 @@ layout: post
 slug: crowdaoke-building-peace-through-harmony
 title: Crowdaoke - building peace through harmony
 wordpress_id: 449
-categories:
-- communities
-- media
-- technology
 tags:
 - app
 - competition

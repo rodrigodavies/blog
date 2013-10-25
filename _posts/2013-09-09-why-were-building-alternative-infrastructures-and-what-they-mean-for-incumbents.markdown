@@ -6,10 +6,6 @@ layout: post
 slug: why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents
 title: Why we’re building Alternative Infrastructures (and what they mean for incumbents)
 wordpress_id: 726
-categories:
-- communities
-- media
-- technology
 tags:
 - alternative infrastructures
 - creative industries

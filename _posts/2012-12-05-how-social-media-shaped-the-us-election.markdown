@@ -6,10 +6,6 @@ layout: post
 slug: how-social-media-shaped-the-us-election
 title: How social media shaped the US election
 wordpress_id: 455
-categories:
-- governance
-- media
-- technology
 tags:
 - big bird
 - binders full of women

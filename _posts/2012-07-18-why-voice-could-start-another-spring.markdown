@@ -6,9 +6,6 @@ layout: post
 slug: why-voice-could-start-another-spring
 title: The revolution will be spoken - why voice matters for the next Spring
 wordpress_id: 343
-categories:
-- communities
-- technology
 tags:
 - arab spring
 - censorship

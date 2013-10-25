@@ -6,9 +6,6 @@ layout: post
 slug: call-to-action-creating-a-platform-for-voice-services
 title: Call to Action - creating a platform for voice services
 wordpress_id: 471
-categories:
-- communities
-- technology
 tags:
 - ict4d
 - ndns

@@ -6,9 +6,6 @@ layout: post
 slug: what-india-and-the-uk-can-learn-from-estonia-2-0
 title: What India and the UK can learn from Estonia 2.0
 wordpress_id: 176
-categories:
-- governance
-- technology
 tags:
 - aadhaar
 - cyber security

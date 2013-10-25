@@ -6,8 +6,6 @@ layout: post
 slug: unpacking-kony-2012
 title: Unpacking Kony 2012
 wordpress_id: 10
-categories:
-- media
 tags:
 - africa
 - development

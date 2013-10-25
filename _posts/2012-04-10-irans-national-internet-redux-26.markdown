@@ -6,9 +6,6 @@ layout: post
 slug: irans-national-internet-redux-26
 title: Iran's "National Internet" (redux)
 wordpress_id: 143
-categories:
-- governance
-- technology
 tags:
 - censorship
 - internet

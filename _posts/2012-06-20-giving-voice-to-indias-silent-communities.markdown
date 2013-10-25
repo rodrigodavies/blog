@@ -6,10 +6,6 @@ layout: post
 slug: giving-voice-to-indias-silent-communities
 title: Giving voice to India's silent communities
 wordpress_id: 248
-categories:
-- communities
-- media
-- technology
 tags:
 - audiowiki
 - cgnet swara

@@ -6,9 +6,6 @@ layout: post
 slug: is-spike-lee-doing-the-right-thing-by-crowdfunding
 title: Is Spike Lee Doing The Right Thing by crowdfunding?
 wordpress_id: 710
-categories:
-- media
-- technology
 tags:
 - crowdfunding
 - film

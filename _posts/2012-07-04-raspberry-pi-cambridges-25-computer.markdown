@@ -6,9 +6,6 @@ layout: post
 slug: raspberry-pi-cambridges-25-computer
 title: 'Raspberry Pi, Cambridge''s $25 computer '
 wordpress_id: 320
-categories:
-- communities
-- technology
 tags:
 - aakash
 - arduino

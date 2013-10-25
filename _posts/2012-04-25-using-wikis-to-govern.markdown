@@ -6,10 +6,6 @@ layout: post
 slug: using-wikis-to-govern
 title: Using Wikis to govern
 wordpress_id: 192
-categories:
-- communities
-- governance
-- media
 - technology
 tags:
 - anupam saraph

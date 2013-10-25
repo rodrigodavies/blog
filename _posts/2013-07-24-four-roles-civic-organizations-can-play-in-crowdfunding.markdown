@@ -6,9 +6,6 @@ layout: post
 slug: four-roles-civic-organizations-can-play-in-crowdfunding
 title: Four roles (civic) organizations can play in crowdfunding
 wordpress_id: 693
-categories:
-- communities
-- technology
 tags:
 - crowdfunding
 - indiegogo

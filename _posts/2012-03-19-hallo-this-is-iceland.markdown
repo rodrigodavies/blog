@@ -6,9 +6,6 @@ layout: post
 slug: hallo-this-is-iceland
 title: Hallo, this is Iceland
 wordpress_id: 15
-categories:
-- governance
-- media
 tags:
 - governance
 - iceland

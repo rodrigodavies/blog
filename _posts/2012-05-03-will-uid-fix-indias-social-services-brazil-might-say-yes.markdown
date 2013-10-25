@@ -6,10 +6,6 @@ layout: post
 slug: will-uid-fix-indias-social-services-brazil-might-say-yes
 title: Will UID fix India's social services? Brazil might say yes.
 wordpress_id: 209
-categories:
-- communities
-- governance
-- technology
 tags:
 - bolsa familia
 - brazil

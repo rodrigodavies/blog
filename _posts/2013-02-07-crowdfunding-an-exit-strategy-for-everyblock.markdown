@@ -6,9 +6,6 @@ layout: post
 slug: crowdfunding-an-exit-strategy-for-everyblock
 title: Crowdfunding an exit strategy for EveryBlock
 wordpress_id: 526
-categories:
-- media
-- technology
 tags:
 - civic media
 - crowdfunding

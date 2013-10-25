@@ -6,10 +6,6 @@ layout: post
 slug: soundcloud-radio-for-democracy
 title: Soundcloud -> radio, for democracy
 wordpress_id: 46
-categories:
-- communities
-- media
-- technology
 tags:
 - africa
 - democracy

@@ -6,11 +6,6 @@ layout: post
 slug: the-news-as-a-social-process-for-improving-society
 title: The news as a social process for improving society
 wordpress_id: 400
-categories:
-- communities
-- governance
-- media
-- technology
 tags:
 - boston
 - breivik

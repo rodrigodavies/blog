@@ -6,8 +6,6 @@ layout: post
 slug: the-case-for-an-advertising-free-london
 title: 'The case for an advertising-free London '
 wordpress_id: 251
-categories:
-- media
 tags:
 - advertising
 - ben hammersley

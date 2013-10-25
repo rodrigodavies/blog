@@ -7,9 +7,6 @@ slug: crowdfunding-on-crack
 title: Crowdfunding on crack - What the Rob Ford 'Crackstarter' campaign means for
   the industry
 wordpress_id: 658
-categories:
-- communities
-- technology
 tags:
 - crackstarter
 - crowdfunding

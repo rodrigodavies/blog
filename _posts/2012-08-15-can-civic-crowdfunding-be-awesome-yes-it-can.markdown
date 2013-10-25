@@ -6,10 +6,6 @@ layout: post
 slug: can-civic-crowdfunding-be-awesome-yes-it-can
 title: Can crowdfunding for public projects be awesome? Yes it can.
 wordpress_id: 369
-categories:
-- communities
-- governance
-- technology
 tags:
 - center for civic media
 - crowdfunding

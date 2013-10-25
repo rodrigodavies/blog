@@ -6,10 +6,6 @@ layout: post
 slug: crowdsourcing-to-fill-gaps-left-by-uk-councils
 title: Crowdsourcing to fill gaps left by UK councils
 wordpress_id: 56
-categories:
-- communities
-- governance
-- technology
 tags:
 - communities
 - crowdsourcing

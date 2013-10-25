@@ -6,10 +6,6 @@ layout: post
 slug: sudanrevolts-in-pictures-storify
 title: '#Sudanrevolts in pictures'
 wordpress_id: 300
-categories:
-- governance
-- media
-- technology
 tags:
 - arab spring
 - bashir

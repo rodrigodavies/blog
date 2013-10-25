@@ -6,10 +6,6 @@ layout: post
 slug: occupy-2-0
 title: Occupy 2.0
 wordpress_id: 13
-categories:
-- communities
-- media
-- technology
 tags:
 - mapping
 - new media

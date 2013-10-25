@@ -6,10 +6,6 @@ layout: post
 slug: how-to-crowdfund-a-million-dollar-arts-project
 title: How to crowdfund a million-dollar arts project
 wordpress_id: 737
-categories:
-- communities
-- media
-- technology
 tags:
 - arts
 - crowdfunding

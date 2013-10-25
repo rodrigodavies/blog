@@ -6,8 +6,6 @@ layout: post
 slug: how-to-live-on-rs-100-per-day
 title: How to live on Rs 100 per day
 wordpress_id: 51
-categories:
-- communities
 tags:
 - india
 - mit

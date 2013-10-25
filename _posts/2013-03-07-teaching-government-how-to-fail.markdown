@@ -6,9 +6,6 @@ layout: post
 slug: teaching-government-how-to-fail
 title: Teaching government how to fail
 wordpress_id: 582
-categories:
-- governance
-- technology
 tags:
 - boston
 - chicago

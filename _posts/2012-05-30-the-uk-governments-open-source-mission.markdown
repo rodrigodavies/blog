@@ -6,9 +6,6 @@ layout: post
 slug: the-uk-governments-open-source-mission
 title: The UK government's open source mission
 wordpress_id: 238
-categories:
-- governance
-- technology
 tags:
 - alex butler
 - andy williamson

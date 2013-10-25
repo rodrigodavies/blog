@@ -6,9 +6,6 @@ layout: post
 slug: mission-control-built-for-cities
 title: Mission Control, Built for Cities
 wordpress_id: 8
-categories:
-- governance
-- technology
 ---
 
 Great piece on I.B.M.'s ‘Smarter Cities’ concept, being used in Rio de Janeiro - and run by Bangalore-born Guru Banavar. Imagine if we could do something similar in India.

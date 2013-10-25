@@ -6,9 +6,6 @@ layout: post
 slug: why-britain-is-not-a-broken-society
 title: Why Britain is not a ‘broken’ society
 wordpress_id: 27
-categories:
-- communities
-- governance
 ---
 
 [caption id="attachment_37" align="alignright" width="181" caption="Image: home_of_chaos"][![David Cameron graffiti](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/4815912504_65ab0871a2.jpg?w=201)](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/4815912504_65ab0871a2.jpg)[/caption]

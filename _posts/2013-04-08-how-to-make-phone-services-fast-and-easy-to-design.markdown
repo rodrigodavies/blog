@@ -6,10 +6,6 @@ layout: post
 slug: how-to-make-phone-services-fast-and-easy-to-design
 title: How to make phone services fast and easy to design
 wordpress_id: 635
-categories:
-- communities
-- media
-- technology
 tags:
 - call to action
 - dwu

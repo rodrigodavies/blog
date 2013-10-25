@@ -6,10 +6,6 @@ layout: post
 slug: how-ca-we-find-fresh-food-fast-in-boston
 title: How can we find fresh food in Boston, fast?
 wordpress_id: 566
-categories:
-- communities
-- governance
-- media
 tags:
 - boston
 - crowdsourcing

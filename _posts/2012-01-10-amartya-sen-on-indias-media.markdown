@@ -6,8 +6,6 @@ layout: post
 slug: amartya-sen-on-indias-media
 title: Amartya Sen on India's media
 wordpress_id: 43
-categories:
-- media
 tags:
 - amartya sen
 - india

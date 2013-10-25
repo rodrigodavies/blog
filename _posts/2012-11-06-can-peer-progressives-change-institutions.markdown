@@ -6,9 +6,6 @@ layout: post
 slug: can-peer-progressives-change-institutions
 title: Can peer progressives change institutions?
 wordpress_id: 409
-categories:
-- governance
-- technology
 tags:
 - center for civic media
 - election

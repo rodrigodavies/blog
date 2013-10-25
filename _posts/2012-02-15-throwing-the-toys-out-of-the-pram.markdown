@@ -6,8 +6,6 @@ layout: post
 slug: throwing-the-toys-out-of-the-pram
 title: Throwing the toys out of the pram
 wordpress_id: 39
-categories:
-- governance
 ---
 
 Russian authorities in Siberia have banned a protest by toys - because they are not citizens of Russia.  No comment yet from the 100 Kinder Surprise toys, 100 Lego people, 20 model soldiers, 15 soft toys and 10 toy cars.

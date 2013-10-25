@@ -6,9 +6,6 @@ layout: post
 slug: how-latvia-turns-online-petitions-into-policy
 title: How Latvia turns online petitions into policy
 wordpress_id: 226
-categories:
-- governance
-- technology
 tags:
 - alex howard
 - government 2.0

@@ -6,9 +6,6 @@ layout: post
 slug: sourcerer-understanding-the-science-behind-the-science
 title: Sourcerer - understanding the science behind the science
 wordpress_id: 420
-categories:
-- media
-- technology
 tags:
 - cochrane collaboration
 - digital literacy

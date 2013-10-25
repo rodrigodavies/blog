@@ -6,10 +6,6 @@ layout: post
 slug: civic-crowdfunding-from-the-statue-of-liberty-to-now
 title: Civic crowdfunding from the Statue of Liberty onwards
 wordpress_id: 543
-categories:
-- communities
-- governance
-- technology
 tags:
 - archon fung
 - arnstein

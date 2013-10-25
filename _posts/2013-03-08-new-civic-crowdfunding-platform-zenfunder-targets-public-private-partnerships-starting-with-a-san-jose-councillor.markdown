@@ -7,10 +7,6 @@ slug: new-civic-crowdfunding-platform-zenfunder-targets-public-private-partnersh
 title: New civic crowdfunding platform Zenfunder targets public-private partnerships,
   starting with a San Jose councillor
 wordpress_id: 589
-categories:
-- communities
-- governance
-- technology
 tags:
 - citizinvestor
 - citysourced

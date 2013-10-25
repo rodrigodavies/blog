@@ -6,8 +6,6 @@ layout: post
 slug: indias-low-cost-tablet-race
 title: India's low-cost tablet race
 wordpress_id: 19
-categories:
-- technology
 ---
 
 [![Zync 900](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/zync-900.png)](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/zync-900.png)Just went to the launch of a new Indian tablet running ICS 4, costing Rs 9,000 ($180). The [Zync Z990](http://www.zync.in) and its sister products are the first foray into IT for [Apple Group of Companies](http://www.applegroup.co.in/), which is better known as a steel, iron and engineering company.
