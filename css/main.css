@@ -195,6 +195,13 @@ img {
 .nocircle {
   border-radius: 0px;
 }
+
+.largeimg {
+  border-radius: 0px;
+  float: none;
+  width: 40em;
+
+}
 /* iPhone 5, iPhone <= 4 */
 
 @media (max-width: 480px), screen and (device-aspect-ratio: 40/71) {
