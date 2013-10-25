@@ -8,7 +8,7 @@ title: Crowdaoke gets honoured by UNAOC
 wordpress_id: 506
 ---
 
-[![selector](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/selector.png)](http://rodrigodavies.com/blog/2012/11/29/crowdaoke-building-peace-through-harmony/selector/)
+[![selector](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/selector.png)](http://rodrigodavies.com/blog/2012/11/29/crowdaoke-building-peace-through-harmony/selector.png)
 
 I'm delighted to report that [Crowdaoke](http://rodrigodavies.com/blog/2012/11/29/crowdaoke-building-peace-through-harmony/), the karaoke platform concept I was working on last year with Helena Puig Larrauri and Heidi Rosbe, [received an 'honourable mention' in the United Nations' Alliance of Civilizations' CREATE UNAOC competition](http://www.unaoc.org/2013/01/announcing-the-create-uanoc-2012-finalists/).
 
