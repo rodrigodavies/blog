@@ -19,7 +19,7 @@ tags:
 - steve schirra
 ---
 
-![Image by Soelin (http://www.flickr.com/photos/soelin)](http://civic.mit.edu/sites/civic.mit.edu/files/Screen%20Shot%202013-03-06%20at%2023.27.48.png)
+<img src="http://civic.mit.edu/sites/civic.mit.edu/files/Screen%20Shot%202013-03-06%20at%2023.27.48.png" class="largeimg" alt="Image by Soelin (http://www.flickr.com/photos/soelin)">
 
 "Our job is to get government used to the idea of failing."
 

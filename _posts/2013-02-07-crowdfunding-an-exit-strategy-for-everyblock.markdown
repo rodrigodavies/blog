@@ -15,7 +15,7 @@ tags:
 - the impossible project
 ---
 
-[![everyblock_logo](http://rodrigodavies.com/blog/wp-content/uploads/2013/02/everyblock_logo.png)](http://rodrigodavies.com/blog/2013/02/07/crowdfunding-an-exit-strategy-for-everyblock/everyblock_logo/)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/02/everyblock_logo.png" class="largeimg" alt="">
 
 The news that NBC is [closing the hyper-local news site EveryBlock](http://www.latimes.com/business/technology/la-fi-tn-nbc-everyblock-shuts-down-20130207,0,6614518.story) has been met with widespread [disappointment](https://twitter.com/marshallk/status/299561731515113473) - rooted as much in the failure of a good brand as the uncomfortable reminder that the hyper-local community is yet to find a business model that pays.
 

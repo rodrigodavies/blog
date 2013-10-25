@@ -8,7 +8,7 @@ title: Where does civic crowdfunding fit on a city's roadmap?
 wordpress_id: 679
 ---
 
-[![Bogardus Triangle Plaza map - from http://www.nyc.gov/html/dot/downloads/pdf/plaza-bogardus-map.jpg](http://rodrigodavies.com/blog/wp-content/uploads/2013/06/plaza-bogardus-map-cropped-580x393.jpg)](http://www.nyc.gov/html/dot/downloads/pdf/plaza-bogardus-map.jpg)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/06/plaza-bogardus-map-cropped-580x393.jpg" class="largeimg" alt="Bogardus Triangle Plaza map - from http://www.nyc.gov/html/dot/downloads/pdf/plaza-bogardus-map.jpg">
 
 
 Several city officials I've spoken to about civic crowdfunding in the past few months raised the following problem: "Isn't resource allocation the primary function of government? You can't remove that and replace it with the will of the crowd. How could we possibly design a policy framework to accommodate this?"

@@ -19,8 +19,7 @@ tags:
 - toronto star
 ---
 
-[![Photo used under CC licence from http://www.flickr.com/photos/shaunpierre](http://rodrigodavies.com/blog/wp-content/uploads/2013/05/4662198802_8615cf0d2d_b-580x383.jpg)](http://www.flickr.com/photos/shaunpierre)
-
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/05/4662198802_8615cf0d2d_b-580x383.jpg" class="largeimg" alt="Photo used under CC licence from http://www.flickr.com/photos/shaunpierre">
 
 **UPDATE: **_Gawker say ["Our confidence that we can consummate this transaction has diminished"](http://www.indiegogo.com/projects/rob-ford-crackstarter) after they lost contact with the owners of the video. You may recall that Gawker coined the term '[crowdfarce](http://valleywag.gawker.com/rich-person-zach-braff-wants-the-internet-to-pay-for-hi-479541247)' recently to describe Zach Braff's Kickstarter campaign._
 

@@ -8,7 +8,7 @@ title: Digging into the archives of crowdfunding
 wordpress_id: 648
 ---
 
-[![penultimate_day_world](http://rodrigodavies.com/blog/wp-content/uploads/2013/04/penultimate_day_world-580x593.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2013/04/penultimate_day_world.jpg)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/04/penultimate_day_world.jpg" class="largeimg" alt="">
 
 I recently wrote [an article for the BBC](http://www.bbc.co.uk/news/magazine-21932675) on the fundraising campaign for the platform on which the Statue of Liberty stands. Joseph Pulitzer, then editor of the New York World newspaper, raised $100,00 in five months from New Yorkers, the majority of whom donated less than one dollar. The article built on [an earlier post on this blog](http://rodrigodavies.com/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/), and a fuller academic paper will follow.
 

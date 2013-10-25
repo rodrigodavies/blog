@@ -8,8 +8,7 @@ title: 'Civic crowdfunding at #SXSWi 2013'
 wordpress_id: 609
 ---
 
-[![Photo by David Sun Kong - http://www.flickr.com/photos/davidsunkong](http://rodrigodavies.com/blog/wp-content/uploads/2013/03/austin.png)](http://www.flickr.com/photos/davidsunkong)
-
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/03/austin.png" class="largeimg" alt="Photo by David Sun Kong - http://www.flickr.com/photos/davidsunkong">
 
 This week I spoke on a panel at SXSW Interactive on civic crowdfunding, titled "Can crowdfunding save local government budgets ([SXSW 2013](http://schedule.sxsw.com/2013/events/event_IAP984))?" Here's a liveblog of the talk, by [Helena Puig Larrauri](http://letthemtalk.org) and [Leah Jones](http://twitter.com/halfwhisker).
 

@@ -23,6 +23,6 @@ How do you find fresh food in Boston if you're in a hurry? For many people in th
 
 So what do we know about the food map of Boston so far? Here's a map of 246 corner stores in the city that I compiled from two City of Boston datasets - [corner stores](https://data.cityofboston.gov/dataset/Corner-Stores/4vcu-nshu) and [healthy corner stores](https://data.cityofboston.gov/Health/Healthy-Corner-Stores/ekiy-2qmz). Right now the data is not very granular at all - and it's just a simple map powered by a Fusion Table. But that's one of the most exciting challenges for us and our partners on this project: figuring out what information we need, how best to gather it and how to present it in a way that is dynamic and useful. That could be an awesome set of visualizations, it could be an app, it could be a game, it could be another type of storytelling device - either way, it needs to get Bostonians in a hurry to the freshest food in their neighbourhood.
 
-
+<iframe frameborder="no" height="390" scrolling="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col5+from+16oGqmn4ceN3RMdDckx7L4ugG123We6JScg8aYwk&amp;h=false&amp;lat=42.31694373870063&amp;lng=-71.14129435493072&amp;z=11&amp;t=1&amp;l=col5&amp;y=2&amp;tmplt=2" width="650"></iframe>
 
 _Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/how-can-we-find-fresh-food-fast-in-boston)_

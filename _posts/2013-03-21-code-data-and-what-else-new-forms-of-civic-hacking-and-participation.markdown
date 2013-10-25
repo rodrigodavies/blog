@@ -8,8 +8,7 @@ title: Code, data, and what else? New forms of civic hacking and participation
 wordpress_id: 621
 ---
 
-[![Photo by Bert Lum (http://www.flickr.com/photos/bytemarks)](http://rodrigodavies.com/blog/wp-content/uploads/2013/03/honolulu_writeathon-580x433.jpg)](http://www.flickr.com/photos/bytemarks/7673651238/)
-
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/03/honolulu_writeathon-580x433.jpg" class="largeimg" alt="Photo by Bert Lum (http://www.flickr.com/photos/bytemarks)">
 
 Last week [I was at SXSWi 2013 to talk about civic crowdfunding](http://rodrigodavies.com/blog/2013/03/14/civic-crowdfunding-at-sxswi-2013/), describing the platforms, institutions and mechanisms that are changing community planning. I heard several great speakers describe ways to reform government using a similar framework. They talked about the need to reform procurement policies so that startups can compete for a slice of the [$172 billion a year government technology market](https://twitter.com/rodrigodavies/status/310862113704931328), how [using product design methodologies](https://www.gov.uk/service-manual) can help [make services work better](https://twitter.com/rodrigodavies/status/310875160993480705 ) for citizens and the need for government to become a platform that can embrace and benefit from civic hackers and innovators.
 

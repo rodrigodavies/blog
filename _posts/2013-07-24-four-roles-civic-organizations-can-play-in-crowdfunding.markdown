@@ -19,6 +19,9 @@ tags:
 - spacehive
 ---
 
+<img src="" class="largeimg" alt="">
+
+
 <img src="/blog/wp-content/uploads/2013/07/four_roles_crowdfunding-580x451.png" class="nocircle">
 Today I'm giving a talk at the [Library of Congress's "Digital Preservation" conference](http://www.digitalpreservation.gov/meetings/ndiipp13.html) on civic crowdfunding and community assets. I'll be giving a brief overview of crowdfunding, its historical precedents and how it is being used in civic contexts today.
 

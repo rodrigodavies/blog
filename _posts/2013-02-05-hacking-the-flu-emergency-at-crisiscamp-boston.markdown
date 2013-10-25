@@ -8,7 +8,7 @@ title: Hacking the flu emergency at CrisisCamp Boston
 wordpress_id: 509
 ---
 
-[![ccboston_hackathon](http://rodrigodavies.com/blog/wp-content/uploads/2013/02/ccboston_hackathon1-940x547.jpeg)](http://rodrigodavies.com/blog/2013/02/05/hacking-the-flu-emergency-at-crisiscamp-boston/ccboston_hackathon-2/)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/02/ccboston_hackathon1-940x547.jpeg" class="largeimg" alt="">
 
 Last month at the Center for Civic Media we held CrisisCamp Boston - an event that is part of the global [Crisis Commons](http://crisiscommons.org/) organization and sprung out of the Hurricane Hackers group that began life in the Center for Civic Media. There were three motivations for organizing the event: to build on the success of the Sandy group and move forward with those projects, to tackle an immediate and local issue ([Boston's flu emergency](http://live.boston.com/Event/Bostons_flu_emergency_2013?Page=0)) and to experiment with a new hackathon / workshop format.
 

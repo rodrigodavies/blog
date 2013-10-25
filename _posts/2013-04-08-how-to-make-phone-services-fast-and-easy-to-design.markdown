@@ -15,7 +15,7 @@ tags:
 - voip drupal
 ---
 
-[![Screen Shot 2013-04-08 at 12.34.52 PM](http://rodrigodavies.com/blog/wp-content/uploads/2013/04/c2a.png)](http://rodrigodavies.com/blog/wp-content/uploads/2013/04/c2a.png)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/04/c2a.png" class="largeimg" alt="">
 
 We've reached the alpha stage of the design interface of Call to Action, a platform that will allow community groups to design and host phone-based services. I [wrote last year](http://rodrigodavies.com/blog/2012/12/19/call-to-action-creating-a-platform-for-voice-services/) about why enabling community groups and individuals to design these services is important, and about the New Day New Standard project that inspired us to build Call to Action.
 

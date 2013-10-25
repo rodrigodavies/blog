@@ -23,7 +23,8 @@ tags:
 - zenfunder
 ---
 
-[![Screen Shot 2013-03-08 at 01.40.35](http://rodrigodavies.com/blog/wp-content/uploads/2013/03/zenfunder.png)](http://rodrigodavies.com/blog/wp-content/uploads/2013/03/zenfunder.png)
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/03/zenfunder.png" class="largeimg" alt="">
+
 Another day, another civic crowdfunding site launch. The civic crowdfunding space has moved from nascent bordering on theoretical a year ago to a rapidly expanding marketplace of competing ideas and models. San Francisco-based Zenfunder is the latest newcomer, and is a sister company of the enterprise [mobile civic engagement platform](http://www.citysourced.com/neighborhood/2282/us/california/santa-clara-county) [CitySourced](http://www.citysourced.com). 
 
 Zenfunder's strategy is to focus on public-private partnerships, where local government input is necessary to implement a project. That avoids the problem of individuals funding projects that don't have the necessary approvals or permits. The site makes the different stages of the workflow explicit with a progress bar that tracks the project from proposal, to the identification of requirements, to city approval, to funding, building and completion. Integrating iterative workflows can be very helpful in trying to crowdsource ideas from the public - Latvia has a [great workflow for refining citizen e-petitions into policy proposals](http://rodrigodavies.com/blog/2012/05/08/how-latvia-turns-online-petitions-into-policy/), for example. 
