@@ -17,7 +17,7 @@ tags:
 - sourcerer
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/sourcerer_shot_jama_comp-580x328.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/sourcerer_shot_jama_comp.jpg)
+[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/sourcerer_jama.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/sourcerer_jama.jpg)
 
 There's been lots of great writing in recent times on the state of science reporting by [Ben Goldacre](http://www.badscience.net) and others, looking at issues such as the influence of the private sector on clinical trials and the lack of literacy around clinical trials - both on the part of the public and journalists themselves. The latter is particularly irksome for specialist science writers, who are understandably pained by the misreporting of studies.
 

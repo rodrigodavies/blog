@@ -22,7 +22,7 @@ tags:
 - voice
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/07/4107537385_6aaf514056_b.jpg)](http://www.flickr.com/photos/dividedxwexstand)
+[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/07/voicespring.jpg)](http://www.flickr.com/photos/dividedxwexstand)
 
 
 For all the debate around the impact of social media on the Arab Spring - and [Patrick McCurdy](http://patrickmccurdy.wordpress.com/) is compiling [an excellent reading list on that topic](https://docs.google.com/document/d/1DU8AOlkTV6F0ZyoGcbk_060iBZG5tWKwj_n97EJPe9M) - when a revolutionary movement is taking off in a non-democratic country, the social media information flow from within the country can slow dramatically. Protesters' concern for their security increases, while governments may seek to reduce the speed of access to social networks or block them altogether. The traffic on a hashtag can quickly become crowded with numerous posts from diaspora and foreign observers, but precious few from within.

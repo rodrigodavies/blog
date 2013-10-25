@@ -17,7 +17,7 @@ tags:
 - uk
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/05/7300787556_645510b53c_z11.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/05/7300787556_645510b53c_z11.jpg)
+[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/05/oneill_gds.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/05/oneill_gds.jpg)
 
 The UK government has been attracting fans in the IT startup community in recent months thanks to its fairly aggressive use of Open Source software, and that's set to continue.
 

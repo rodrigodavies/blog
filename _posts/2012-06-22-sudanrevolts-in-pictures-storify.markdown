@@ -19,7 +19,7 @@ tags:
 - uprising
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/06/556256_10150999241175747_427636664_n.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/06/556256_10150999241175747_427636664_n.jpg)
+[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/06/sudan_revolts.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/06/sudan_revolts.jpg)
 
 Protests in Sudan entered their sixth day today, and although events are still going somewhat [under-reported by the international media](https://www.google.com/search?hl=en&gl=in&tbm=nws&q=sudan%2Bprotests%2Bnews) ([Al Jazeera](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=2&ved=0CDoQqQIwAQ&url=http%3A%2F%2Fstream.aljazeera.com%2Fstory%2Fstudents-lead-sudanrevolts-against-austerity-0022253&ei=cPfkT8awCsaN0wXmq_0w&usg=AFQjCNGcsF7Km1TU5NFfJV3vizjBR96o0g) and [Reuters](http://www.reuters.com/article/2012/06/22/us-sudan-protest-idUSBRE85L12120120622) being among the few to provide sustained coverage), the number of videos and photos appearing under the [#sudanrevolts](https://twitter.com/search/%23sudanrevolts) tag is increasing exponentially. Most images were grainy and from the street, but there were a few high-quality photos, and several portraits of the activists who have been arrested. I started collecting them today in this Storify project, [#SudanRevolts in pictures](http://storify.com/rodrigodavies/sudanrevolts-in-pictures) (I've left out the images of supporters from outside Sudan, of which they are many). I'll continue to update as quickly as I can, but if you've used Storify before and want to help, let me know.
 

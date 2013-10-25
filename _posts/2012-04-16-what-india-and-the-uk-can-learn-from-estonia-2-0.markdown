@@ -16,7 +16,7 @@ tags:
 - wifi
 ---
 
-[![Estonia's digital cabinet (via RSLN)](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/5772522729_589fe7240a_z11.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/5772522729_589fe7240a_z11.jpg)
+[![Estonia's digital cabinet (via RSLN)](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/estonia.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/estonia.jpg)
 
 There's an interesting piece in today's [_Guardian_](http://www.guardian.co.uk) about [how Estonia has become an 'internet titan'](http://www.guardian.co.uk/technology/2012/apr/15/estonia-ussr-shadow-internet-titan). Of course, the country is well-known for the success of [Skype](http://en.wikipedia.org/wiki/Skype), but its progress as a digital society is an even more fascinating story. A few things that stood out:
 

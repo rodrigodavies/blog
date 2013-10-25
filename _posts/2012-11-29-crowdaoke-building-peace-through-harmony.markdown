@@ -17,7 +17,7 @@ tags:
 - web app
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/selector-580x362.png)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/selector.png)
+[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/crowdaoke.png)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/selector.png)
 “The artistic five minutes, I have found rather consistently, when it is given space and acknowledged as something far beyond entertainment, accomplishes what most of politics has been unable to attain: It helps us return to humanity, a transcendent journey that, like the moral imagination, can build a sense that we are, after all, a human community."
 
 Jean Paul Lederach's observation about the importance of artistic expression in peacebuilding was one of the inspirations behind Crowdaoke 4 Peace, an interactive karaoke platform concept that [Helena](http://letthemtalk.org), [Heidi](http://keepingitcurious.blogspot.com) and I have been working on. The idea is a web app that will enable individuals from across the world to sing karaoke in small online groups constructed of other live users and recorded user videos. The platform will have an audience/performer chat function, event curation and organization, and a social networking component.

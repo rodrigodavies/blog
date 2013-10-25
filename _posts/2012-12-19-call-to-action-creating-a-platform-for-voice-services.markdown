@@ -16,7 +16,7 @@ tags:
 - voip drupal
 ---
 
-[![NewDay_web_horiz_plain](http://rodrigodavies.com/blog/wp-content/uploads/2012/12/NewDay_web_horiz_plain-580x392.png)](http://rodrigodavies.com/blog/2012/12/19/call-to-action-creating-a-platform-for-voice-services/newday_web_horiz_plain/)
+[![NewDay_web_horiz_plain](http://rodrigodavies.com/blog/wp-content/uploads/2012/12/ndns.png)](http://rodrigodavies.com/blog/2012/12/19/call-to-action-creating-a-platform-for-voice-services/)
 
 _(cross-posted from [http://civic.mit.edu/blog/rodrigodavies/call-to-action-creating-a-platform-for-voice-services](http://civic.mit.edu/blog/rodrigodavies/call-to-action-creating-a-platform-for-voice-services))_
 

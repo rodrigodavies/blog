@@ -24,7 +24,7 @@ tags:
 - voip drupal
 ---
 
-[![http://www.flickr.com/photos/hinkelstone](http://rodrigodavies.com/blog/wp-content/uploads/2012/09/5970773763_aa99e939ef_z.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/09/5970773763_aa99e939ef_z.jpg)
+[![http://www.flickr.com/photos/hinkelstone](http://rodrigodavies.com/blog/wp-content/uploads/2012/09/norway.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/09/norway.jpg)
 
 As most of you have been expecting, I've now moved to Cambridge, MA where I'm working as a Research Assistant at the MIT Center for Civic Media while pursuing an MS in Comparative Media Studies. For the next few months I'll be focusing on several very exciting areas - civic mapping, a new civic information platform based around [New Day New Standard](http://civic.mit.edu/blog/beckyh/case-study-ndns-voip-drupal), learning [VOIP Drupal](http://civic.mit.edu/projects/voip-drupal) scripting and a project with the [Harvard Community Innovation Lab](http://dudleyclass.tumblr.com/) based in Boston's Dudley Street neighbourhood. More on all of the above to follow.
 

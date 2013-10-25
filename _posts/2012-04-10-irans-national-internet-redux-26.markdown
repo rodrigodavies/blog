@@ -12,7 +12,7 @@ tags:
 - iran
 ---
 
-[![Photo by Shahram Sharif](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/2317694787_c3f034c661_z2.jpg)](http://www.flickr.com/photos/sharif/)
+[![Photo by Shahram Sharif](http://rodrigodavies.com/blog/wp-content/uploads/2012/04/iran_internet.jpg)](http://www.flickr.com/photos/sharif/)
 
 The [apparently old story](https://twitter.com/#!/digiphile/status/189524534397902848) that Iran is planning its own 'national internet' has [emerged again today](http://img.ibtimes.com/www/articles/20120409/325415_iran-internet-intranet-censorhip-freedom-tehran-google.htm).
 
