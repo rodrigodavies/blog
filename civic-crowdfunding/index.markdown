@@ -22,26 +22,26 @@ The posts below are from my blog unless otherwise stated, and are a selection ta
 
 **Theory and history of crowdfunding**
 	
-  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding/)
+  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding.html)
 
-  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)](/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents/)
+  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)](/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents.html)
 
-  * [Four roles (civic) organizations can play in crowdfunding](/blog/2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding/)
+  * [Four roles (civic) organizations can play in crowdfunding](/blog/2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding.html)
 
-  * [Where does civic crowdfunding fit on a city’s roadmap?](/blog/2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap/)
+  * [Where does civic crowdfunding fit on a city’s roadmap?](/blog/2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap.html)
 
-  * [Civic crowdfunding from the Statue of Liberty onwards](/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/)
+  * [Civic crowdfunding from the Statue of Liberty onwards](/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now.html)
 	
-  * [Civic crowdfunding is a windfall for participation first, budgets second](/blog/2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/)
+  * [Civic crowdfunding is a windfall for participation first, budgets second](/blog/2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets.html)
 
 
 **Crowdfunding case studies**
 	
-  * [What’s wrong with crowdfunding your own security?](/blog/2013/10/10/whats-wrong-with-crowdfunding-your-own-security/)
+  * [What’s wrong with crowdfunding your own security?](/blog/2013/10/10/whats-wrong-with-crowdfunding-your-own-security.html)
 	
-  * [How to crowdfund a million-dollar arts project](/blog/2013/09/16/how-to-crowdfund-a-million-dollar-arts-project/)
+  * [How to crowdfund a million-dollar arts project](/blog/2013/09/16/how-to-crowdfund-a-million-dollar-arts-project.html)
 	
-  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry](/blog/2013/05/22/crowdfunding-on-crack/)
+  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry](/blog/2013/05/22/crowdfunding-on-crack.html)
 	
   * ["The Statue of Liberty and America's crowdfunding pioneer"](http://www.bbc.co.uk/news/magazine-21932675), BBC News, April 2013
 
