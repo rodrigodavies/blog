@@ -22,33 +22,33 @@ The posts below are from my blog unless otherwise stated, and are a selection ta
 
 **Theory and history of crowdfunding**
 	
-  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding/)
+  * [Do we own part of this? What Obama’s vision of OFA means for crowdfunding](/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding/)
 
-  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)]( /2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents/)
+  * [Why we’re building Alternative Infrastructures (and what they mean for incumbents)](/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents/)
 
-  * [Four roles (civic) organizations can play in crowdfunding]( /2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding/)
+  * [Four roles (civic) organizations can play in crowdfunding](/blog/2013/07/24/four-roles-civic-organizations-can-play-in-crowdfunding/)
 
-  * [Where does civic crowdfunding fit on a city’s roadmap?]( /2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap/)
+  * [Where does civic crowdfunding fit on a city’s roadmap?](/blog/2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap/)
 
-  * [Civic crowdfunding from the Statue of Liberty onwards]( /2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/)
+  * [Civic crowdfunding from the Statue of Liberty onwards](/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now/)
 	
-  * [Civic crowdfunding is a windfall for participation first, budgets second]( /2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/)
+  * [Civic crowdfunding is a windfall for participation first, budgets second](/blog/2013/01/17/civic-crowdfunding-is-a-windfall-for-participation-not-budgets/)
 
 
 **Crowdfunding case studies**
 	
-  * [What’s wrong with crowdfunding your own security?]( /2013/10/10/whats-wrong-with-crowdfunding-your-own-security/)
+  * [What’s wrong with crowdfunding your own security?](/blog/2013/10/10/whats-wrong-with-crowdfunding-your-own-security/)
 	
-  * [How to crowdfund a million-dollar arts project]( /2013/09/16/how-to-crowdfund-a-million-dollar-arts-project/)
+  * [How to crowdfund a million-dollar arts project](/blog/2013/09/16/how-to-crowdfund-a-million-dollar-arts-project/)
 	
-  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry]( /2013/05/22/crowdfunding-on-crack/)
+  * [Crowdfunding on crack – What the Rob Ford ‘Crackstarter’ campaign means for the industry](/blog/2013/05/22/crowdfunding-on-crack/)
 	
   * ["The Statue of Liberty and America's crowdfunding pioneer"](http://www.bbc.co.uk/news/magazine-21932675), BBC News, April 2013
 
 
 **Media comments**
 	
-  * ["When Batman isn't available: crowdfund"](www.salon.com/2013/10/11/when_batman_isnt_available_crowd_fund/), Salon.com, October 2013.
+  * ["When Batman isn't available: crowdfund"](http://www.salon.com/2013/10/11/when_batman_isnt_available_crowd_fund/), Salon.com, October 2013.
 	
   * ["When money is short, should cities crowdfund?"](http://kuow.org/post/when-money-short-should-cities-crowdfund), KUOW, Seattle, September 2013.
 
@@ -57,7 +57,7 @@ The posts below are from my blog unless otherwise stated, and are a selection ta
 
   * "Collaborative Placemaking", Awesome Foundation Summit panel with Jamie Hand, Eric Ho and Archie Coates, October 2013, Center for Social Innovation, NYC. 
 
-  * "Civic crowdfunding and community assets", Digital Preservation conference, July 2013, Library of Congress, Washington DC. [[slides](http://www.rodrigodavies.com/ccf/LoC_presentation_RD.pdf)]
+  * "Civic crowdfunding and community assets", Digital Preservation conference, July 2013, Library of Congress, Washington DC. [[slides](LoC_presentation_RD.pdf)]
 
   * ["Futures of Crowdfunding"](http://personaldemocracy.com/conferences/nyc/2013/program), Personal Democracy Forum panel with Erin Barnes, Mike Norman and Jordan Raynor, June 2013, NYC.
 
