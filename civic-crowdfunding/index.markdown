@@ -17,7 +17,7 @@ You can subscribe to email updates on the project below, or follow the [#civicc
 </form>
 </p>
 
-The posts below are from my blog unless otherwise stated, and are a selection taken from the [crowdfunding tag]( /tag/crowdfunding/). Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
+The posts below are from my blog unless otherwise stated. Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
 
 **Theory and history of crowdfunding**
