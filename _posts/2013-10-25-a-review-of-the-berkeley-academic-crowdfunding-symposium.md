@@ -14,7 +14,7 @@ tags:
 
 ![](/blog/img/berkeley.jpg)
 
-Last week [Berkeley's Fung Institute hosted an academic symposium on crowdfunding](funginstitute.berkeley.edu/event/academic-symposium-crowdfunding) - the first large gathering to include both industry and researchers working in the field. 
+Earlier this month [Berkeley's Fung Institute hosted an academic symposium on crowdfunding](funginstitute.berkeley.edu/event/academic-symposium-crowdfunding) - the first large gathering to include both industry and researchers working in the field. 
 
 Industry representatives provided some interesting perspectives on the process of regulating from countries including the UK, Korea and the US. The research framing was, for the most part, investment economics and entrepreneurship, reflecting the growing excitement around the emergence of equity crowdfunding in the US and the Institute's disciplinary focus.  
 
