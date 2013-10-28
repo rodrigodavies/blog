@@ -19,7 +19,7 @@ tags:
 - yochai benkler
 ---
 
-[caption id="attachment_412" align="aligncenter" width="590"][![Photo: twitter.com/mstem](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/mstem_p2ppol.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/mstem_p2ppol.jpg) Photo: Matt Stempeck[/caption]
+[(http://rodrigodavies.com/blog/wp-content/uploads/2012/11/mstem_p2ppol.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/11/mstem_p2ppol.jpg)
 
 Last night the Center for Civic Media brought together [Steven Johnson](http://twitter.com/stevenbjohnson), [Yochai Benkler](http://twitter.com/yochaibenkler), [Susan Crawford](http://twitter.com/scrawford) and [Lawrence Lessig](http://twitter.com/lessig) to discuss Johnson's new book _[Future Perfect: The Case for Progress in a Networked World](http://www.amazon.com/dp/1594488207)._ Substantively they centred on the issue of whether the success of peer-networked movements can be framed as a political ideology that can bring together the collective energies behind the likes of Wikipedia, Linux, Kiva and Kickstarter and build a movement for progressively minded change.
 

@@ -16,7 +16,7 @@ tags:
 - statue of liberty
 ---
 
-<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/02/statue-of-liberty_crop.jpg" class="largeimg" alt="http://www.retronaut.co/2012/06/statue-of-liberty-in-paris-1877-1885/"> 
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/02/statue-of-liberty_crop.jpg" class="largeimg" alt="http://www.retronaut.co/2012/06/statue-of-liberty-in-paris-1877-1885"> 
 
 I've been asked recently to define [what I mean by civic crowdfunding](http://govinthelab.com/2013/02/04/thoughts-on-civic-crowdfunding-with-rodrigo-davies-2). For the purposes of my research, I'm characterizing it as crowdfunding campaigns that involve the development of public assets. It may or may not include the investment of public funds; it may take the form of towns and cities supporting civic projects being executed by other stakeholders (such as [New York City's Kickstarter page](http://www.kickstarter.com/pages/NYC) or the town of [Wycombe funding a space for local entrepreneurs](https://spacehive.com/growanentrepreneurfortomorrow)). The key is that the outcome is a public asset that all members of a community can access.
 
