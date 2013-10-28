@@ -12,7 +12,7 @@ tags:
 - fung institute
 ---
 
-![](/img/berkeley.jpg)
+![](/blog/img/berkeley.jpg)
 
 Last week [Berkeley's Fung Institute hosted an academic symposium on crowdfunding](funginstitute.berkeley.edu/event/academic-symposium-crowdfunding) - the first large gathering to include both industry and researchers working in the field. 
 
