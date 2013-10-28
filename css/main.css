@@ -117,6 +117,10 @@ ul.posts span {
   font-size: 0.8em;
 }
 
+.site .ul {
+  line-height: 1.6em;
+}
+
 .site .footer {
   font-size: 80%;
   color: #666;
