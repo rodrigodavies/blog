@@ -36,4 +36,4 @@ Perhaps the most enjoyable moment of the event from my point of view was Google 
 
 Live notes from the conference are [here] (https://docs.google.com/document/d/1QPXVIYq9_mzNC7MeUSQdLjZk2utIScOiPFlsHxbZpKM/edit).
 
-_(cross-posted at [civic.mit.edu](http://civic.mit.edu/))_
+_(cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/the-case-for-using-qualitative-methods-and-history-to-study-crowdfunding))_
