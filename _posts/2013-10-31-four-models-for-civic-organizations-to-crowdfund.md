@@ -14,7 +14,7 @@ tags:
 
 A few months ago I gave a talk at the [Library of Congress's "Digital Preservation" conference](http://www.digitalpreservation.gov/meetings/ndiipp13.html) in Washington, DC, in which I suggested four models that civic organizations could use to crowdfund projects: promoter, curator, facilitator and platform. 
 
-Thanks to the ending of the government shutdown, I now have the video of my presentation, which is below. You can read also [a short writeup of the talk I posted earlier](/blog/2013/07/23/four-roles-civic-organizations-can-play-in-crowdfunding.html). My slides are [here] (LoC_presentation_RD.pdf).
+Thanks to the ending of the government shutdown, I now have the video of my presentation, which is below. You can read also [a short writeup of the talk I posted earlier](/blog/2013/07/23/four-roles-civic-organizations-can-play-in-crowdfunding.html). My slides are [here] (/civic-crowdfunding/LoC_presentation_RD.pdf).
 
 <iframe width="660" height="370" src="//www.youtube.com/embed/WHhPS_0TM1A" frameborder="0" allowfullscreen></iframe>
 
