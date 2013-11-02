@@ -74,6 +74,7 @@ ul.posts span {
   opacity: 0.96;
   background: #fff;
   border-bottom: 1px solid #ddd;
+  z-index: 2;
 }
 
 .header a {
@@ -193,6 +194,10 @@ a.page_head:hover {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.list-group-item {
+  z-index: 1; /* corrects stacking order */
 }
 
 /* images */
