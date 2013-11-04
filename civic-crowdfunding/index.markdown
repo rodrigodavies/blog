@@ -27,7 +27,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
     <h3 class="panel-title">Theory and history of crowdfunding</h3>
   </div>
   <a href="/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding.html" class="list-group-item">Do we own part of this? What Obama’s vision of OFA means for crowdfunding</a>
-  <a href="/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents.html" class="list-group-item">Why we’re building Alternative Infrastructures (and what they mean for incumbents</a>
+  <a href="/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents.html" class="list-group-item">Why we’re building Alternative Infrastructures (and what they mean for incumbents)</a>
   <a href="/blog/2013/07/23/four-roles-civic-organizations-can-play-in-crowdfunding.html" class="list-group-item">Four roles (civic) organizations can play in crowdfunding</a>
   <a href="/blog/2013/06/15/where-does-civic-crowdfunding-fit-on-a-city-roadmap.html" class="list-group-item">Where does civic crowdfunding fit on a city’s roadmap?</a>
   <a href="/blog/2013/02/19/civic-crowdfunding-from-the-statue-of-liberty-to-now.html" class="list-group-item">Civic crowdfunding from the Statue of Liberty onwards</a>
