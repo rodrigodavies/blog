@@ -49,7 +49,8 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
   <div class="panel-heading">
     <h3 class="panel-title">Media comments</h3>
   </div>
-    <a href="http://www.salon.com/2013/10/11/when_batman_isnt_available_crowd_fund/" class="list-group-item">"When Batman isn't available: crowdfund", Salon.com, October 2013</a>
+    <a href="http://www.wired.co.uk/magazine/archive/2013/11/features/built-by-the-crowd">"Built by the crowd: the changing world of public infrastructure", Wired, November 2013.</a>
+    <a href="http://www.salon.com/2013/10/11/when_batman_isnt_available_crowd_fund/" class="list-group-item">"When Batman isn't available: crowdfund", Salon.com, October 2013.</a>
     <a href="http://kuow.org/post/when-money-short-should-cities-crowdfund" class="list-group-item">"When money is short, should cities crowdfund?", KUOW, Seattle, September 2013.</a>
 </div>
 
