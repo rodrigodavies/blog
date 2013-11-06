@@ -19,9 +19,9 @@ On Monday I gave a talk to MIT's [New Economy Group](http://neweconomymit.wordpr
 
 It's not meant to be an exhaustive collection of events, but here are a few things I found most interesting and worthwhile to include.
 
-**Donors Choose was arguably the first civic crowdfunding platform**, although it has never referred to itself in those terms. It took DC ten years to become entirely self-financing.   
+**[Donors Choose](http://www.donorschoose.org/) was arguably the first civic crowdfunding platform**, although it has never referred to itself in those terms. It took DC ten years to become entirely self-financing.   
 
-**Music was an experimental test-bed for crowdfunding**. Its first movers ArtistShare and SellABand, started in 2003 and 2006 and experimented with models such as subscriptions and revenue sharing, but neither ultimately adopted what has become the dominant pricing model (see below). 
+**Music was an experimental test-bed for crowdfunding**. Its first movers [ArtistShare](http://www.artistshare.com) and [SellABand](http://www.sellaband.com), started in 2003 and 2006 and experimented with models such as subscriptions and revenue sharing, but neither ultimately adopted what has become the dominant pricing model (see below). 
 
 **A market for payments matters**. There's an obvious link between the rise of a more competitive online payment platforms market after 2007 and the growth of crowdfunding as an industry, since all crowdfunding sites depend on them to operate. That market has supported the great convergence in the pricing model of crowdfunding sites, to something resembling 4-5% platform fees and 4-5% payment processing fees.
 
@@ -30,3 +30,5 @@ It's not meant to be an exhaustive collection of events, but here are a few thin
 **$1M+ crowdfunding projects have only been a reality since February 2012**. I'll be writing more about the phenomenon of big money crowdfunding campaigns soon.
 
 The [rest of my slides are here](/blog/civic-crowdfunding/neg_slides.pdf), video to follow.
+
+_(cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/a-timeline-of-crowdfunding-since-2000))_
