@@ -12,7 +12,7 @@ As the field of civic crowdfunding emerges and grows, it is spawning many compet
 
 It’s unlikely to be just one of the above, and surely differs across contexts. But there are instances that present one vision over the others. Last week President Obama made a clear appeal to the last category, ownership, by [tweeting this image about Organizing for Action](https://twitter.com/BarackObama/status/383636866420842496/photo/1).
 
-<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/10/Screen-Shot-2013-10-02-at-5.09.56-PM.png" class="largeimg">
+<img src="/blog/wp-content/uploads/2013/10/Screen-Shot-2013-10-02-at-5.09.56-PM.png" class="largeimg">
 
 Let’s remind ourselves that “ownership society” was an expression used by George W. Bush to justify tax cuts, and was a concept popularized by Margaret Thatcher as a rationale for privatization. I’m not suggesting Obama has morphed into either of the above, and campaign fundraising is a different world than domestic policy or civic crowdfunding, but the weight of his words shouldn’t be underestimated. Obama’s successive fundraising triumphs have had a talismanic effect: many of the civic crowdfunders I’ve interviewed cite Obama’s campaign fundraising success as a direct inspiration for their projects.
 
