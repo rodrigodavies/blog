@@ -3,7 +3,7 @@ author: rodrigodavies
 date: 2013-11-06 10:07:01+00:00
 layout: post
 slug: a-timeline-of-crowdfunding-since-2000
-title: A timeline of crowdfunding since 2000
+title: A Timeline of Crowdfunding Since 2000
 tags:
 - crowdfunding
 - civic crowdfunding
