@@ -2,3 +2,7 @@ name: Rodrigo Davies
 markdown: redcarpet
 pygments: true
 baseurl: /blog
+url: http://www.rodrigodavies.com/blog
+description: A blog about how technology and media impact communities and governments, and the ways they are adapting to new challenges and opportunities.
+rss_path: /feed
+rss_name: rss.xml
