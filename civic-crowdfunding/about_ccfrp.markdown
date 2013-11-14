@@ -7,7 +7,11 @@ title: About the Civic Crowdfunding Research Project
 
 <h3>About the Civic Crowdfunding Research Project</h3>
 
-The Civic Crowdfunding Project was founded by Rodrigo Davies, a Research Assistant at MIT's <a href="http://civic.mit.edu">Center for Civic Media</a>. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts. <a href="{{ site.baseurl }}/about">You can read more about my background here</a>.
+The Civic Crowdfunding Project was founded by Rodrigo Davies, a Research Assistant at MIT's <a href="http://civic.mit.edu">Center for Civic Media</a>. 
+
+I'm currently pursuing my master's thesis in <a href="http://cmsw.mit.edu">Comparative Media Studies</a> and will be compiling the research that appears here into a series of academic papers, articles and blog posts. <a href="{{ site.baseurl }}/about">You can read more about my background here</a>.
+
+Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures).
 
 If you're interested in contributing to the project, <a href="mailto:rodrigo@civiccrowdfunding.com">contact me</a>.
 

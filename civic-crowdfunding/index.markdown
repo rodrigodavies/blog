@@ -4,9 +4,7 @@ layout: ccfrp
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 ---
-The posts below are from my blog unless otherwise stated. Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
-<span class="anchor" id="theory"></span>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Theory and history of crowdfunding</h3>
