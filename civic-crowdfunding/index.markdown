@@ -1,10 +1,9 @@
 ---
 author: rodrigodavies
 comments: false
-layout: ccrp
+layout: ccfrp
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
-wordpress_id: 814
 ---
 
 <img src="ccrp_logo_horiz.jpg" class="largeimg">

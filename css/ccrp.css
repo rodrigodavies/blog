@@ -1,0 +1,28 @@
+body {
+	font-size: 1.6em;
+}
+
+.largeimg {
+	padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .container {
+  	padding: 15px;
+    max-width: 830px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .largeimg {
+  width: 95%;
+  padding-top: 30px;
+}
+
+@media screen and (max-width: 767px) {
+  .largeimg {
+  width: 95%;
+  padding-top: 30px;
+}
+
+}
