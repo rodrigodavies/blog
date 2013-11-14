@@ -1,9 +1,25 @@
 ---
 author: rodrigodavies
+comments: false
 layout: ccfrp
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 ---
+<div id="jumbo">
+<div class="jumbotron">
+      <img src="logo-150x150.png" class="logo">
+      <div class="title">Civic Crowdfunding Research Project</div>
+      <!-- <img src="ccrp_logo_horiz.jpg" class="largeimg"> -->
+      <p class="clear">The purpose of this project is to collect data related to <a href="https://twitter.com/search?q=civiccrowdfunding">#civiccrowdfunding</a> and to advance social research into the field. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts. Enter your email below for regular updates.</p>
+      <p>
+
+      <p>
+<form class="form-inline" id="mc-embedded-subscribe-form" action="http://rodrigodavies.us5.list-manage.com/subscribe/post?u=de978e08f4c1fc492f3be830d&amp;id=3cdf68e61c" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-danger" type="submit" name="subscribe" value="Subscribe">
+</form>
+</div>
+</div>
+
 The posts below are from my blog unless otherwise stated. Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
 <span class="anchor" id="theory"></span>
