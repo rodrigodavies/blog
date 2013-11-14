@@ -5,7 +5,7 @@ layout: ccfrp
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 ---
-
+<div id="jumbo">
 <div class="jumbotron">
       <img src="logo-150x150.png" class="logo">
       <div class="title">Civic Crowdfunding Research Project</div>
@@ -18,10 +18,11 @@ title: Civic Crowdfunding Research Project
 <input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-danger" type="submit" name="subscribe" value="Subscribe">
 </form>
 </div>
+</div>
 
 The posts below are from my blog unless otherwise stated. Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
-<a class="anchor" id="theory"></a>
+<span class="anchor" id="theory"></span>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Theory and history of crowdfunding</h3>
@@ -35,7 +36,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
   <a href="/blog/2013/01/16/civic-crowdfunding-is-a-windfall-for-participation-not-budgets.html" class="list-group-item">Civic crowdfunding is a windfall for participation first, budgets second</a>
 </div>
 
-<a class="anchor" id="cases"></a>
+<span class="anchor" id="cases"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Crowdfunding case studies</h3>
@@ -46,7 +47,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
   <a href="http://www.bbc.co.uk/news/magazine-21932675" class="list-group-item">The Statue of Liberty and America's crowdfunding pioneer, BBC News, April 2013</a>
 </div>
 
-<a class="anchor" id="media"></a>
+<span class="anchor" id="media"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Media comments</h3>
@@ -56,7 +57,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
     <a href="http://kuow.org/post/when-money-short-should-cities-crowdfund" class="list-group-item">"When money is short, should cities crowdfund?", KUOW, Seattle, September 2013.</a>
 </div>
 
-<a class="anchor" id="talks"></a>
+<span class="anchor" id="talks"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Talks and workshops</h3>
