@@ -1,26 +1,25 @@
 ---
 author: rodrigodavies
 comments: false
-layout: ccfrp
+layout: ccrp2
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 ---
 
-<img src="ccrp_logo_horiz.jpg" class="largeimg">
+<div class="jumbotron">
+      <img src="ccrp_logo_horiz.jpg" class="largeimg">
+      <p>The purpose of this project is to collect data related to <a href="https://twitter.com/search?q=civiccrowdfunding">#civiccrowdfunding</a> and to advance social research into the field. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts. Enter your email below for regular updates.</p>
+      <p>
 
-The purpose of this project is to collect data related to civic crowdfunding and to advance social research into the field. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts.
-
-You can subscribe to email updates on the project below, or follow the [#civiccrowdfunding](https://twitter.com/search?q=civiccrowdfunding) twitter hashtag (I tweet [@rodrigodavies](http://twitter.com/rodrigodavies)). Are you a researcher who'd like to join the project? [Let's talk](mailto:rodrigo.davies@gmail.com?subject=Civic Crowdfunding Research Project).
-
-<p>
+      <p>
 <form class="form-inline" id="mc-embedded-subscribe-form" action="http://rodrigodavies.us5.list-manage.com/subscribe/post?u=de978e08f4c1fc492f3be830d&amp;id=3cdf68e61c" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-danger" type="submit" name="subscribe" value="Subscribe">
+<input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-primary" type="submit" name="subscribe" value="Subscribe">
 </form>
-</p>
+</div>
 
 The posts below are from my blog unless otherwise stated. Many of the articles are cross-posted at the [Center for Civic Media](http://civic.mit.edu/users/rodrigodavies) blog and [PBS Idea Lab](http://www.pbs.org/idealab/author/rdavies/). I also contribute to related collections on Alternative Infrastructures at [Medium](https://medium.com/alternative-infrastructures) and [HASTAC](http://www.hastac.org/groups/alternative-infrastructures). 
 
-
+<a class="anchor" id="theory"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Theory and history of crowdfunding</h3>
@@ -34,7 +33,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
   <a href="/blog/2013/01/16/civic-crowdfunding-is-a-windfall-for-participation-not-budgets.html" class="list-group-item">Civic crowdfunding is a windfall for participation first, budgets second</a>
 </div>
 
-
+<a class="anchor" id="cases"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Crowdfunding case studies</h3>
@@ -45,6 +44,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
   <a href="http://www.bbc.co.uk/news/magazine-21932675" class="list-group-item">The Statue of Liberty and America's crowdfunding pioneer, BBC News, April 2013</a>
 </div>
 
+<a class="anchor" id="media"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Media comments</h3>
@@ -54,6 +54,7 @@ The posts below are from my blog unless otherwise stated. Many of the articles a
     <a href="http://kuow.org/post/when-money-short-should-cities-crowdfund" class="list-group-item">"When money is short, should cities crowdfund?", KUOW, Seattle, September 2013.</a>
 </div>
 
+<a class="anchor" id="talks"></a>
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Talks and workshops</h3>
