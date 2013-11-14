@@ -46,7 +46,7 @@ body {
   overflow: hidden
 }
 
-.title a:hover {
+a:hover, a:active, a {
   text-decoration: none;
 }
 
