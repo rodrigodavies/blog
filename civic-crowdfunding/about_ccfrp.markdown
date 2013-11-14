@@ -15,6 +15,4 @@ Many of the articles are cross-posted at the [Center for Civic Media](http://civ
 
 If you're interested in contributing to the project, <a href="mailto:rodrigo@civiccrowdfunding.com">contact me</a>.
 
-The CCRP logo was adapted from <a href="http://thenounproject.com/noun/institution/#icon-No11638" target="_blank">Institution</a> by <a href="http://thenounproject.com/diegochavez" target="_blank">Diego Chavez</a> at the Noun Project.
-
-This site was built with <a href="http://jekyllrb.com">Jekyll</a>.
+The CCRP logo was adapted from <a href="http://thenounproject.com/noun/institution/#icon-No11638" target="_blank">Institution</a> by <a href="http://thenounproject.com/diegochavez" target="_blank">Diego Chavez</a> at the Noun Project. This site was built with <a href="http://jekyllrb.com">Jekyll</a>.
