@@ -54,7 +54,7 @@ body {
   float: right;
   padding-left: 10px;
   padding-top: 10px;
-  width: 100px;
+  width: 95px;
   clear: both;
 }
 
@@ -126,7 +126,7 @@ body {
 .logo {
   float: right;
   display: block;
-  max-width: 100px;
+  max-width: 95px;
   padding: 5px;
   margin-top: 0;
 }
