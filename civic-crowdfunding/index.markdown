@@ -1,13 +1,15 @@
 ---
 author: rodrigodavies
 comments: false
-layout: ccrp2
+layout: ccfrp
 slug: civic-crowdfunding
 title: Civic Crowdfunding Research Project
 ---
 
 <div class="jumbotron">
-      <img src="ccrp_logo_horiz.jpg" class="largeimg">
+      <img src="logo-150x150.png" class="logo">
+      <div class="title">Civic Crowdfunding Research Project</div>
+      <!-- <img src="ccrp_logo_horiz.jpg" class="largeimg"> -->
       <p>The purpose of this project is to collect data related to <a href="https://twitter.com/search?q=civiccrowdfunding">#civiccrowdfunding</a> and to advance social research into the field. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts. Enter your email below for regular updates.</p>
       <p>
 

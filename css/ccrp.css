@@ -6,6 +6,17 @@ body {
   padding-top: 20px
 }
 
+.title {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.logo {
+  float: right;
+  margin-top: 30px;
+  padding: 15px;
+}
+
 .container .jumbotron {
   border-radius: 20px;
 }
@@ -29,6 +40,11 @@ a .anchor {
   top: -100px; 
   visibility: hidden;
 }
+
+.footer {
+  font-size: 0.8em;
+}
+
 
 @media (min-width: 768px) {
   .container {
