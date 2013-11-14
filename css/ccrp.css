@@ -64,10 +64,25 @@ a .anchor {
   padding-top: 10px;
 }
 
+.title {
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+}
+
 @media screen and (max-width: 767px) {
   .largeimg {
   width: 95%;
   padding-top: 0;
+}
+
+.logo {
+  float: right;
+  display: block;
+  max-width: 100px;
+  padding: 5px;
+  margin-top: 0;
 }
 
 }
