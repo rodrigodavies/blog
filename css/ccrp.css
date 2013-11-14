@@ -14,15 +14,21 @@ body {
 .logo {
   float: right;
   margin-top: 30px;
-  padding: 15px;
+  padding: 10px;
 }
 
 .container .jumbotron {
   border-radius: 20px;
+  background-color: #428bca;
+  color: #fff;
 }
 
 .jumbotron p {
   font-size: 0.8em;
+}
+
+.jumbotron a {
+  color: #fff;
 }
 
 .jumbotron form {

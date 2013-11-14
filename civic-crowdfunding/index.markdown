@@ -15,7 +15,7 @@ title: Civic Crowdfunding Research Project
 
       <p>
 <form class="form-inline" id="mc-embedded-subscribe-form" action="http://rodrigodavies.us5.list-manage.com/subscribe/post?u=de978e08f4c1fc492f3be830d&amp;id=3cdf68e61c" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-primary" type="submit" name="subscribe" value="Subscribe">
+<input class="email" id="mce-EMAIL" type="email" name="EMAIL" placeholder="hello@example.com" required="" size="18" value=""> <input class="btn btn-danger" type="submit" name="subscribe" value="Subscribe">
 </form>
 </div>
 
