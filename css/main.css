@@ -60,8 +60,8 @@ ul.posts span {
 .site {
   font-family: inherit;
   font-size: 125%;
-  width: 45em;
-  margin: 7em auto 2em;
+  width: 40em;
+  margin: 1.8em auto 2em;
 }
 
 .header {
@@ -69,11 +69,11 @@ ul.posts span {
   position: fixed;
   top: 0%;
   left: 0%;
-  width: 100%;
-  padding: 0 15px;
+  width: 17%;
+  padding: 15px 15px;
   opacity: 0.96;
   background: #fff;
-  border-bottom: 1px solid #ddd;
+  /* border-bottom: 1px solid #ddd; */
   z-index: 2;
 }
 
@@ -229,6 +229,12 @@ img {
   margin: 7em auto 2em;
 }
 
+.header {
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
+
 .header h1.title {
   margin: 1em 0 0 0;
 }
@@ -250,6 +256,12 @@ img {
 .site {  
   width: 95%;
   margin: 7em auto 2em;
+}
+
+.header {
+  top: 0%;
+  left: 0%;
+  width: 100%;
 }
 
 .header h1.title {
