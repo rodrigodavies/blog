@@ -5,7 +5,7 @@ slug: about_ccfrp
 title: About the Civic Crowdfunding Research Project
 ---
 
-<h2>About the Civic Crowdfunding Research Project</h2>
+<h3>About the Civic Crowdfunding Research Project</h3>
 
 The Civic Crowdfunding Project was founded by Rodrigo Davies, a Research Assistant at MIT's <a href="http://civic.mit.edu">Center for Civic Media</a>. I'm currently pursuing my master's thesis and will be compiling the research that appears here into a series of academic papers, articles and blog posts. <a href="{{ site.baseurl }}/about">You can read more about my background here</a>.
 
