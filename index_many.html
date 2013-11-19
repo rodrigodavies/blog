@@ -4,18 +4,15 @@ title: Rodrigo Davies
 ---
 
 <div id="home">
-	{% assign post = site.posts.first %}
-	{% assign content = post.content %}
-	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	<p class="meta">{{ post.date | date_to_string }}</p>
-
-	<div class="post">
-  		{{ content }}
-	</div>
+	{% for post in site.posts limit:4 %}
+		{{post.title}}
+		{{ post.content }}
+		}
+	{% endfor %}
 
         <div class="footer">
 <div class="pagination">
-		{% for post in site.posts limit:5 %}
+		{% for post in site.posts limit:1 %}
 			{% if post.previous %}
             <a href="{{ site.baseurl }}{{post.previous.url}}"> &laquo; Previous Post: {{post.previous.title}}</a> 
       	{% endif %}
