@@ -70,4 +70,4 @@ Below are some of the numbers I've derived from Kickstarter projects to analyze 
 </div>
 
 
-_(cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/spreading-the-crowdfunded-wealth))_
+_(cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/what-does-the-wealth-distribution-of-crowdfunding-look-like))_
