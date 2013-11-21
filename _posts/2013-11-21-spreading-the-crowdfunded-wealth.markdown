@@ -13,7 +13,7 @@ tags:
 - peer economy
 ---
 
-_[![CC BY-NC-SA Rodrigo Davies](img/pareto.png)](img/pareto.png)_
+_[![CC BY-NC-SA Rodrigo Davies](http://rodrigodavies.com/blog/2013/11/21/img/pareto.png)](http://rodrigodavies.com/blog/2013/11/21/img/pareto.png)_
 
 To get noticed as a crowdfunding campaign in 2013, you need to aim high. Three years ago, topping $345,000 would have made you [the biggest Kickstarter of all time](http://www.kickstarter.com/blog/the-history-of-1-0). In the past year and a half, the platform has gone from zero to fifty-one successful $1M+ campaigns. Long gone (and thankfully so) are the days when simply running a campaign was enough to generate media interest. Now mainstream attention demands a much higher profile, and therefore a much higher price tag: from [Veronica Mars](http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project) to [Spike Lee](rodrigodavies.com/blog/2013/09/02/is-spike-lee-doing-the-right-thing-by-crowdfunding.html) and [Pebble](http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android).
 
