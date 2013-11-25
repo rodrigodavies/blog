@@ -134,8 +134,8 @@ a.page_head:hover {
   font-size: 80%;
   color: #666;
   border-top: 1px dotted #eee;
-  margin-top: 2em;
-  overflow: hidden;
+  margin-top: 3.5em;
+  /* overflow: hidden; */
 }
 
 .site .footer .contact {
