@@ -1,6 +1,6 @@
 ---
 author: rodrigodavies
-date: 2013-11-27 12:03:01+00:00
+date: 2013-12-03 16:03:01+00:00
 layout: post
 slug: whats-civic-about-civic-crowdfunding
 title: What's civic about civic crowdfunding?
@@ -10,7 +10,7 @@ tags:
 - civic crowdfunding
 ---
 
-Last week I gave a talk at the Berkman Center's Cooperation Group about my work on civic crowdfunding to date. A central question in the group was how we define [civic crowdfunding](http://www.civiccrowdfunding.com) projects, as distinct from non-civic ones.
+Last week I gave a talk at the [Berkman Center for Internet and Society](http://cyber.law.harvard.edu)'s Cooperation Group about my work on civic crowdfunding to date. A central question in the group was how we define [civic crowdfunding](http://www.civiccrowdfunding.com) projects, as distinct from non-civic ones.
 
 Previously I had been working with this statement: "Civic crowdfunding projects are projects that provide services to communities". This works as a very broad first cut. But it needs a lot of unpacking. For the purposes of the talk, I proposed another approach to the problem, asking two questions: who is contributing resources (input), and what are the goods being produced (output)? These thoughts are a work in progress, and I'd very much welcome feedback and critique on them.
 
