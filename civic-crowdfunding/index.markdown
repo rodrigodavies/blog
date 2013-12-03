@@ -10,6 +10,7 @@ title: Civic Crowdfunding Research Project
     <h3 class="panel-title">Theory and history of crowdfunding</h3>
   </div>
   <a href="/blog/2013/11/06/a-timeline-of-crowdfunding.html" class="list-group-item">A Timeline of Crowdfunding Since 2000</a>
+  <a href="/blog/2013/12/03/whats-civic-about-civic-crowdfunding.html" class="list-group-item">What's civic about civic crowdfunding?</a>
   <a href="/blog/2013/10/02/do-we-own-part-of-this-what-obamas-vision-of-ofa-means-for-crowdfunding.html" class="list-group-item">Do we own part of this? What Obama’s vision of OFA means for crowdfunding</a>
   <a href="/blog/2013/09/09/why-were-building-alternative-infrastructures-and-what-they-mean-for-incumbents.html" class="list-group-item">Why we’re building Alternative Infrastructures (and what they mean for incumbents)</a>
   <a href="/blog/2013/07/23/four-roles-civic-organizations-can-play-in-crowdfunding.html" class="list-group-item">Four roles (civic) organizations can play in crowdfunding</a>
