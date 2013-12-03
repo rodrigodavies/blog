@@ -220,6 +220,13 @@ img {
   width: 42em;
 
 }
+
+.medimg {
+  border-radius: 10px;
+  float: none;
+  width: 35em;
+
+}
 /* iPhone 5, iPhone <= 4 */
 
 @media (max-width: 480px), screen and (device-aspect-ratio: 40/71) {

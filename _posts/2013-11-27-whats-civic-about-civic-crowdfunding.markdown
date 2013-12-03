@@ -26,19 +26,19 @@ The conclusion that civic crowdfunding projects should produce public goods is i
 
 The classic public/social/private models look something like this.
 
-<img src="/blog/img/ccf_venn_1.png" class="largeimg">
+<img src="/blog/img/ccf_venn_1.png" class="medimg">
 
 When you add the crowd, it's possible to imagine civic crowdfunding projects occuring somewhere in this very broad space.
 
-<img src="/blog/img/ccf_venn_2.png" class="largeimg">
+<img src="/blog/img/ccf_venn_2.png" class="medimg">
 
 This might lead us to particular conclusions about how crowdfunders are expected to behave – and what kind of contributor the crowd is, depending on the composition of the project.
 
-<img src="/blog/img/ccf_venn_3.png" class="largeimg">
+<img src="/blog/img/ccf_venn_3.png" class="medimg">
 
 In theory a civic crowdfunding project could be resourced by the crowd alone, or by a combination of the crowd and government (taxation). This is a highly individual-centric model. It also offers a limited opportunity for the project to scale; the crowd is effectively being asked to top up taxation revenues.
 
-<img src="/blog/img/ccf_venn_4.png" class="largeimg">
+<img src="/blog/img/ccf_venn_4.png" class="medimg">
 
 Moreover, it's almost inevitable that non-profit sector and for-profit sector will become involved, either helping to deliver the project or by virtue of being impacted by it. Civic projects should, of course, be mindful of existing work being done in the area in which they're seeking to intervene and work with existing groups where possible.
 
@@ -46,7 +46,7 @@ Meanwhile, civic crowdfunding projects could also be provided by the crowd and o
 
 Therefore we might say that the optimal form of civic crowdfunding occurs at the intersection of all four interests, with each contributing to the outcome. That is to say, the `perfect crowd' for a civic project involves all actors, since public projects in the built environment that serve civic goals will impact or intersect with the interests of government, for-profit and non-profit organizations, and the crowd. 
 
-<img src="/blog/img/ccf_venn_5.png" class="largeimg">
+<img src="/blog/img/ccf_venn_5.png" class="medimg">
 
 This reasoning is consistent with conventional theories of crowd wisdom, which suggest that more diverse crowds produce superior outcomes. It may also be seen as a stronger form of participation according to [Fungs's three dimensions of participation](http://www.archonfung.net/papers/FungVarietiesPAR.pdf): it has a broad 'scope', offers a common 'mode' of participation (although donations may vary in size, they share a common platform and process) and grants complete authority to the group (the project can be realized as agreed upon).
 
