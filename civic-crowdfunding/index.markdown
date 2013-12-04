@@ -48,10 +48,9 @@ title: Civic Crowdfunding Research Project
   <a href="berkman_presentation.pdf" class="list-group-item">"What Kind of Cooperation?", Presentation to the Cooperation Research Group, November 2013, Berkman Center for Internet and Society, Harvard University, Cambridge MA.</a>
   <a href="" class="list-group-item">"Civic Crowfunding, Community Assets and the New Economy", Presentation to the New Economy Researchers Group, November 2013, MIT, Cambridge MA.</a>
   <a href="" class="list-group-item">"Collaborative Placemaking", Awesome Foundation Summit panel with Jamie Hand, Eric Ho and Archie Coates, October 2013, Center for Social Innovation, NYC</a>
-  <a href="http://www.youtube.com/watch?v=WHhPS_0TM1A" class="list-group-item">"Civic crowdfunding and community assets", Digital Preservation conference, July 2013, Library of Congress, Washington DC</a> 
+  <a href="http://www.youtube.com/watch?v=WHhPS_0TM1A" class="list-group-item">"Civic crowdfunding and community assets", Digital Preservation conference, July 2013, Library of Congress, Washington DC</a>
   <a href="http://personaldemocracy.com/conferences/nyc/2013/program" class="list-group-item">"Futures of Crowdfunding", Personal Democracy Forum panel with Erin Barnes, Mike Norman and Jordan Raynor, June 2013, NYC</a>
   <a href="civic_crowdfunding_pres.pdf" class="list-group-item">"Can Crowdfunding save local government budgets?", SXSW Interactive Panel with Jordan Raynor, Story Bellows and Eric Engelman, March 2013, Austin TX.</a>
-
 </div>
 
 
