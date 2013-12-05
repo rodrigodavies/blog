@@ -10,6 +10,8 @@ tags:
 - civic crowdfunding
 ---
 
+_[![The CCRP logo was adapted from Institution by Diego Chavez at the Noun Project.](http://rodrigodavies.com/blog/img/ccfrp-logo.png)](http://rodrigodavies.com/blog/img/ccfrp-logo.png)_
+
 Last week I gave a talk at the [Berkman Center for Internet and Society](http://cyber.law.harvard.edu)'s Cooperation Group about my work on civic crowdfunding to date. A central question in the group was how we define [civic crowdfunding](http://www.civiccrowdfunding.com) projects, as distinct from non-civic ones.
 
 Previously I had been working with this statement: "Civic crowdfunding projects are projects that provide services to communities". This works as a very broad first cut. But it needs a lot of unpacking. For the purposes of the talk, I proposed another approach to the problem, asking two questions: who is contributing resources (input), and what are the goods being produced (output)? These thoughts are a work in progress, and I'd very much welcome feedback and critique on them.
