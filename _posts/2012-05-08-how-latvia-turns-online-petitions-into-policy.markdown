@@ -34,4 +34,4 @@ Other countries - especially 2.0-savvy leaders in [Estonia](http://rodrigodavie
 
 p.s. The Guardian has this brief video interview with Latvia's foreign affairs minister:
 
-[youtube=http://www.youtube.com/watch?feature=endscreen&NR=1&v=lIPN5J352sY]
+<iframe width="560" height="315" src="//www.youtube.com/embed/lIPN5J352sY" frameborder="0" allowfullscreen></iframe>
