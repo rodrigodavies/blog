@@ -10,7 +10,7 @@ tags:
 - civic crowdfunding
 ---
 
-_[![Justice designed by Márcio Duarte from the thenounproject.com.](http://rodrigodavies.com/blog/img/justice.png)](/blog/img/justice.png)_
+_![Justice designed by Márcio Duarte from the thenounproject.com.](/blog/img/justice.png)_
 
 In [a recent piece for the Center for Digital Ethics and Policy](http://digitalethics.org/essays/the-ethics-of-crowdfunding/), I discussed the ethical limits of crowdfunding: should platforms host campaigns that promote hatred? How should they handle campaigns that are legally dubious? Should they be worried about their success crowding out the activities of other worthy organizations?
 
