@@ -29,7 +29,7 @@ I'm starting to think about a framework for good practice in civic crowdfunding 
 
 To be sure, these values have a lot in common with the principles of strong, participatory democracy. That's no accident, and it shouldn't be a surprise, either. As I've argued on several occasions, [civic crowdfunding has important implications for the future of local decision-making](/2013/12/03/whats-civic-about-civic-crowdfunding.html). It's now time to think concretely about what the best version of civic crowdfunding looks like, to ensure we're heading in the right direction.
 
-Thanks to the MIT Public Service Fellowship program, for the next few weeks I'll be in Kansas City, MO, working with non-profits considering running civic crowdfunding campaigns. I'm excited to be working through issues such as capacity, engagement and accountability with them, and will be sure to share what we learn.
+Thanks to the [MIT Public Service Fellowship program](http://web.mit.edu/mitpsc/), for the next few weeks I'll be in Kansas City, MO, working with non-profits considering running civic crowdfunding campaigns. I'm excited to be working through issues such as capacity, engagement and accountability with them, and will be sure to share what we learn.
 
 <img src="/blog/img/kc_municipal.jpg" class="horizimg">
 
