@@ -31,4 +31,4 @@ I'm starting to think about a framework for good practice in civic crowdfunding 
 
 To be sure, these values have a lot in common with the principles of strong, participatory democracy. That's no accident, and it shouldn't be a surprise, either. As I've argued on several occasions, [civic crowdfunding has important implications for the future of local decision-making](/2013/12/03/whats-civic-about-civic-crowdfunding.html). It's now time to think concretely about what the best version of civic crowdfunding looks like, to ensure we're heading in the right direction.
 
-_(cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/the-ethics-and-values-of-crowdfunding). Justice designed by [Márcio Duarte](http://thenounproject.com/marc_io) from the [Noun Project](http://www.thenounproject.com/))_
+_(Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/the-ethics-and-values-of-crowdfunding). Justice designed by [Márcio Duarte](http://thenounproject.com/marc_io) from the [Noun Project](http://www.thenounproject.com/))_
