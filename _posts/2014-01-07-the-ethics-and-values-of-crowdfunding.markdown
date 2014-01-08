@@ -17,7 +17,9 @@ I made the argument that platforms can play a positive role in shaping the kinds
 
 Clearly platforms cannot be expected to handle unlimited liability. But active stewardship is worthwhile for two reasons. Firstly, it's not in the interest of platforms to sit back and allow campaigns that promote hatred or are misleading to operate using their resources and their brand name. Secondly, what is allowed to happen on a platform reflects (or will soon reflect) the community who feel excited about using it. Happy, productive communities don't typically rally behind activites that aim to bring unhappiness to others.
 
-In civic crowdfunding, the ethical issues are more complex because the stakeholders involved are more likely to hold themselves - or be held to - higher standards than the average startup. In most cases these stakeholders will be held to higher standards than the crowdfunding platforms themselves. These standards go beyond pure ethics, too, and probably better described as values. But again, platforms have an opportunity to lead by example, and to articulate the values and practices that civic crowdfunding should stand for. In broad terms, the moral imperative intrisic to civic crowdfunding has been called 'fairness'. But what does a fair system look like? 
+In civic crowdfunding, the ethical issues are more complex because the stakeholders involved are more likely to hold themselves - or be held to - higher standards than the average startup. In most cases these stakeholders will be held to higher standards than the crowdfunding platforms themselves. These standards go beyond pure ethics, too, and probably better described as values. But again, platforms have an opportunity to lead by example, and to articulate the values and practices that civic crowdfunding should stand for. And that goes for the rest of us too - as researchers, fundraisers, backers and community members.
+
+In broad terms, the moral imperative intrisic to civic crowdfunding has been called 'fairness'. But what does a fair system look like? 
 
 I'm starting to think about a framework for good practice in civic crowdfunding based on three core ideas.
 
