@@ -10,7 +10,7 @@ tags:
 - civic crowdfunding
 ---
 
-_[![The CCRP logo was adapted from Institution by Diego Chavez at the Noun Project.](http://rodrigodavies.com/blog/img/ccfrp-logo.png)](http://rodrigodavies.com/blog/img/ccfrp-logo.png)_
+_[![The CCRP logo was adapted from Institution by Diego Chavez at the Noun Project.](http://rodrigodavies.com/blog/img/ccfrp-logo.png)](/img/ccfrp-logo.png)_
 
 Last week I gave a talk at the [Berkman Center for Internet and Society](http://cyber.law.harvard.edu)'s Cooperation Group about my work on civic crowdfunding to date. A central question in the group was how we define [civic crowdfunding](http://www.civiccrowdfunding.com) projects, as distinct from non-civic ones.
 
