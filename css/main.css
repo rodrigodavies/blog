@@ -223,7 +223,8 @@ img {
 .horizimg {
   border-radius: 0;
   float: none;
-  width: 42em;
+  width: 40em;
+  margin: 0;
 }
 
 .medimg {
