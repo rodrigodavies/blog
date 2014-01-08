@@ -10,8 +10,6 @@ tags:
 - civic crowdfunding
 ---
 
-_![Justice designed by Márcio Duarte from the thenounproject.com.](/blog/img/justice.png)_
-
 In [a recent piece for the Center for Digital Ethics and Policy](http://digitalethics.org/essays/the-ethics-of-crowdfunding/), I discussed the ethical limits of crowdfunding: should platforms host campaigns that promote hatred? How should they handle campaigns that are legally dubious? Should they be worried about their success crowding out the activities of other worthy organizations?
 
 I made the argument that platforms can play a positive role in shaping the kinds of crowdfunding campaigns that succeed on their watch.
@@ -31,4 +29,8 @@ I'm starting to think about a framework for good practice in civic crowdfunding 
 
 To be sure, these values have a lot in common with the principles of strong, participatory democracy. That's no accident, and it shouldn't be a surprise, either. As I've argued on several occasions, [civic crowdfunding has important implications for the future of local decision-making](/2013/12/03/whats-civic-about-civic-crowdfunding.html). It's now time to think concretely about what the best version of civic crowdfunding looks like, to ensure we're heading in the right direction.
 
-_(Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/the-ethics-and-values-of-crowdfunding). Justice designed by [Márcio Duarte](http://thenounproject.com/marc_io) from the [Noun Project](http://www.thenounproject.com/))_
+Thanks to the MIT Public Service Fellowship program, for the next few weeks I'll be in Kansas City, MO, working with non-profits considering running civic crowdfunding campaigns. I'm excited to be working through issues such as capacity, engagement and accountability with them, and will be sure to share what we learn.
+
+<img src="/blog/img/kc_municipal.jpg" class="horizimg">
+
+_(Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/the-ethics-and-values-of-crowdfunding).)_

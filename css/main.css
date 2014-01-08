@@ -218,7 +218,12 @@ img {
   border-radius: 10px;
   float: none;
   width: 42em;
+}
 
+.horizimg {
+  border-radius: 0;
+  float: none;
+  width: 42em;
 }
 
 .medimg {
