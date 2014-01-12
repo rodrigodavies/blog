@@ -6,7 +6,12 @@ slug: about
 title: Music
 ---
 
-Here are a few mixes I've put together over the past few years. All copyright belongs to the artists, please support their work by buying it and/or paying for streaming services that compensate them. The majority of this work is hosted by [mixcloud](https://x.mixcloud.com/rodrigodavies).
+![Rodrigo Davies at ](../img/djing.png)
+Below is a collection of mixes I've made since 2008. The live recordings are unedited. 
+
+All copyright belongs to the artists, please support their work by buying it and/or paying for streaming services that compensate them. 
+
+The majority of this work can also be streamed on [my mixcloud page](https://x.mixcloud.com/rodrigodavies).
 
 **New Skies (January 2014)**
 
