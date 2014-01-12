@@ -1,7 +1,7 @@
 ---
 author: rodrigodavies
 comments: true
-layout: music-page
+layout: page
 slug: about
 title: Music
 ---
