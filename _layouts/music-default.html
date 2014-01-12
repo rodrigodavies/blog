@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+      {% include styles.html %}
+
+      <script src="/js/audiojs/audio.min.js"></script>
+      <script>
+        audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+       });
+      </script>
+
+    </head>
+    <body>
+
+        <div class="header">
+            <h1 class="title"><a href="{{ site.baseurl }}">{{ site.name }}</a></h1><br>
+            <div class="extra">
+              Civic <a href="http://www.rodrigodavies.com/civiccrowdfunding">crowdfunding</a> + communities + technology + media
+              <!-- | <form onsubmit="my_search_google()" ><input type="text" id="my-google-search"> </form> -->
+            </div>
+        </div>
+        <div class="site">
+
+          {{ content }}
+
+            <div class="contact">
+              <p>
+                Rodrigo Davies, 2011-2013. All content <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">CC BY-NC-SA</a> | Built with <a href="http://jekyllrb.com">Jekyll</a> | <a href="{{ site.baseurl }}/about">About</a> | <a href="{{ site.baseurl }}/contents.html">Archive</a> | <a href="{{ site.baseurl }}/feed.xml">RSS</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+          {% include ga.html %}
+
+    </body>
+</html>
