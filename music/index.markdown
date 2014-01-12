@@ -6,7 +6,7 @@ slug: about
 title: Music
 ---
 
-![Rodrigo Davies at ](../img/djing.png)
+![Rodrigo Davies at MIT Media Lab](../img/djing.png)
 Below is a collection of mixes I've made since 2008. The live recordings are unedited. 
 
 All copyright belongs to the artists, please support their work by buying it and/or paying for streaming services that compensate them. 
