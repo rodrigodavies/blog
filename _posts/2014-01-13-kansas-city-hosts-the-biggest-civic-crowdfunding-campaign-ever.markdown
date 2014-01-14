@@ -14,7 +14,7 @@ Today the Kansas City-based non-profit BikeWalkKC launched the biggest civic cro
 
 They're running [ten $100,000 campaigns for the next 46 days on on Neighbor.ly](http://neighbor.ly/users/1874-kansas-city-b-cycle) (also based in KC), one for each of the ten zones of the city in which they're planning to build new stations. The total ask of $1M is, as far as I'm aware, the largest civic project on an online crowdfunding platform to date. 
 
-<img src="{{ base.url }}/img/bcycle.png" class="horizimg">
+<img src="/blog/img/bcycle.png" class="horizimg">
 
 It's a huge task, but the campaign has already raised $300,000 in matching funds: $200,000 from the Federal Highway Administration and $50,000 each from two Kansas City-based organizations, the Kaufman Foundation and the Nelson-Atkins Museum of Art. BikeWalkKC will continue to try and raise more big-dollar donations as the campaign progresses. If BikeWalkKC are successful they'll be able to install an additional 15 bike stations, taking the total in the city to 27.
 
