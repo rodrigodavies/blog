@@ -12,7 +12,7 @@ tags:
 
 Today the Kansas City-based non-profit BikeWalkKC launched the biggest civic crowdfunding campaign ever, to extend [the bikeshare scheme](http://bikesharekc.com/) the group partially crowdfunded in 2012. 
 
-They're running [ten $100,000 campaigns for the next 46 days on on Neighbor.ly](http://neighbor.ly/users/1874-kansas-city-b-cycle) (also based in KC), one for each of the ten zones of the city in which they're planning to build new stations. The total ask of $1M is, as far as I'm aware, the largest civic project on an online crowdfunding platform to date. 
+They're running [ten $100,000 campaigns for the next 46 days on on Neighbor.ly](http://neighbor.ly/users/1874-kansas-city-b-cycle) (also based in KC), one for each of the ten zones of the city in which they're planning to build new stations. The total ask of $1M is, as far as I'm aware, the largest civic project on a crowdfunding platform to date. 
 
 <img src="/blog/img/bcycle.png" class="horizimg">
 
