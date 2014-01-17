@@ -23,7 +23,7 @@ tags:
 - zenfunder
 ---
 
-<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/03/zenfunder.png" class="largeimg" alt="">
+<img src=“img/zenfunder.png" class="largeimg" alt="">
 
 Another day, another civic crowdfunding site launch. The civic crowdfunding space has moved from nascent bordering on theoretical a year ago to a rapidly expanding marketplace of competing ideas and models. San Francisco-based Zenfunder is the latest newcomer, and is a sister company of the enterprise [mobile civic engagement platform](http://www.citysourced.com/neighborhood/2282/us/california/santa-clara-county) [CitySourced](http://www.citysourced.com). 
 

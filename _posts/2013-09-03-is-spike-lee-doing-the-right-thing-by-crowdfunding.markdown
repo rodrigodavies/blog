@@ -15,7 +15,7 @@ tags:
 - zach braff
 ---
 
-[![spikeLee by Shankbone (CC)](http://rodrigodavies.com/blog/wp-content/uploads/2013/09/spikeLee2-580x580.png)](http://www.flickr.com/photos/shankbone)
+[![spikeLee by Shankbone (CC)](img/spikeLee2-580x580.jpg)](http://www.flickr.com/photos/shankbone)
 
 Spike Lee joins [Zach Braff](http://www.kickstarter.com/projects/1869987317/wish-i-was-here-1) and Rob Ford’s Veronica Mars on the list of celebrities [to turn to Kickstarter to fund a project](http://www.kickstarter.com/projects/spikelee/the-newest-hottest-spike-lee-joint). It now seems that no star is too big — or too cool — to crowdfund. But what does the arrival of big names mean for the future of crowdfunding?
 

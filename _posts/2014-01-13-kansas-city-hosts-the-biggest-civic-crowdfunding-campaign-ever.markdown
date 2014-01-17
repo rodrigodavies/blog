@@ -4,6 +4,7 @@ date: 2014-01-13 22:33:10+00:00
 layout: post
 slug: kansas-city-hosts-the-biggest-civic-crowdfunding-campaign-ever
 title: Kansas City Hosts The Biggest Civic Crowdfunding Campaign Ever 
+comments: true
 tags:
 - crowdfunding
 - civic organizations

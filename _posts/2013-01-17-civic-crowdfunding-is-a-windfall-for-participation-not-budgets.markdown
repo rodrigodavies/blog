@@ -8,7 +8,7 @@ title: Civic crowdfunding is a windfall for participation first, budgets second
 wordpress_id: 487
 ---
 
-<img src="http://rodrigodavies.com/blog/wp-content/uploads/2013/01/mansfield.png" class="largeimg" alt="Mansfield town centre, by Martine Hamilton-Knight">
+<img src=“img/mansfield.jpg" class="largeimg" alt="Mansfield town centre, by Martine Hamilton-Knight">
 
 Critics of civic crowdfunding sometimes suggest it subverts government and civil society, and risks replacing existing institutions with an ecosystem of community pressure groups - among whom only the wealthiest and loudest will triumph. The moment that [Kickstarter's arts fundraising overtook the US National Endowment for the Arts](http://idealab.talkingpointsmemo.com/2012/02/the-nea-responds-to-kickstarter-funding-debate.php), for instance, was seen by some as a sign that civic organisations' ability to remain relevant was under threat from an army of loosely connected individuals with money to spend.
 

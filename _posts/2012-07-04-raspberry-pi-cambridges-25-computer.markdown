@@ -18,7 +18,7 @@ tags:
 - tablet
 ---
 
-[![](http://rodrigodavies.com/blog/wp-content/uploads/2012/07/pi_board_cropped.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/07/pi_board_cropped.jpg)
+[![](img/pi_board_cropped.jpg)](img/pi_board_cropped.jpg)
 
 
 India [built a tablet for $35](http://rodrigodavies.wordpress.com/2012/03/20/indias-low-cost-tablet-race/) in a bid to bring the internet to millions who've never before had access to a computer. Meanwhile, computer scientists in Cambridge have built a computer for $25 that aims to teach programming to a generation who've become skilful consumers but lousy coders.

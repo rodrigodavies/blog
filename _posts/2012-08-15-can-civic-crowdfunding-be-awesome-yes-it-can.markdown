@@ -15,7 +15,7 @@ tags:
 - spacehive
 ---
 
-[![Cody Dock, the site of a proposed redevelopment in East London that is using Spacehive to raise funds](http://rodrigodavies.com/blog/wp-content/uploads/2012/08/cody_dock.png)](http://www.spacehive.com)
+[![Cody Dock, the site of a proposed redevelopment in East London that is using Spacehive to raise funds](img/cody_dock.jpg)](http://www.spacehive.com)
 
 
 
