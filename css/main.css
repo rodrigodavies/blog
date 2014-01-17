@@ -237,6 +237,14 @@ img {
   width: 35em;
 
 }
+
+/* Disqus */
+
+#disqus_thread {
+  padding: 10px 2px 0 0;
+}
+
+
 /* iPhone 5, iPhone <= 4 */
 
 @media (max-width: 480px), screen and (device-aspect-ratio: 40/71) {
