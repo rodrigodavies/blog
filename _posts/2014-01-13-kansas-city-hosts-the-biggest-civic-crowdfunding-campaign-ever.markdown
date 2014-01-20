@@ -5,10 +5,7 @@ layout: post
 slug: kansas-city-hosts-the-biggest-civic-crowdfunding-campaign-ever
 title: Kansas City Hosts The Biggest Civic Crowdfunding Campaign Ever 
 comments: true
-tags:
-- crowdfunding
-- civic organizations
-- civic crowdfunding
+description: Today the Kansas City-based non-profit BikeWalkKC launched the biggest civic crowdfunding campaign ever, to extend the bikeshare scheme the group partially crowdfunded in 2012. 
 ---
 
 **Update: there's [a great piece in Next City](http://nextcity.org/sharedcity/entry/kansas-city-tries-crowdfunding-its-bike-share) by [Nancy Scola](http://twitter.com/nancyscola) citing this post.**
