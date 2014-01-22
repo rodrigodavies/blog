@@ -11,7 +11,7 @@ Below is a collection of mixes I've made since 2008. The live recordings are une
 
 All copyright belongs to the artists, please support their work by buying it and/or paying for streaming services that compensate them. 
 
-The majority of this work can also be streamed on [my mixcloud page](https://x.mixcloud.com/rodrigodavies).
+The majority of this work is on [my mixcloud page](https://x.mixcloud.com/rodrigodavies). [Here's what I've been listening to lately](http://www.last.fm/user/rodrigodavies).
 
 **New Skies (January 2014)**
 
