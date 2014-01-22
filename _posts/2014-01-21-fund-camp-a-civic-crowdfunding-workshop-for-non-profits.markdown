@@ -3,7 +3,7 @@ author: rodrigodavies
 date: 2014-01-21 16:03:01+00:00
 layout: post
 slug: fund-camp-a-crowdfunding-workshop-for-non-profits
-title: Fund Camp, A Crowdfunding Workshop for Non-Profits
+title: Fund Camp, a Crowdfunding Workshop for Non-Profits
 description: 'Today I hosted Fund Camp, a workshop for non-profits in Kansas City. We talked about the problems groups are trying to solve, how to engage their supporters and how to deliver great projects.' 
 comments: yes
 tags:
