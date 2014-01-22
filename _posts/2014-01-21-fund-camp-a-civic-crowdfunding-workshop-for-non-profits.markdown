@@ -61,4 +61,4 @@ What I was most excited about was that **all** of the projects were tackling dif
 
 The slides from my presentation are [here](http://rodrigodavies.com/civiccrowdfunding/fundcamp.pdf), and like all the content on the site you're welcome to share them, in keeping with [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). If you work with non-profits who are interested in crowdfunding, I'm always [happy to talk](http://twitter.com/rodrigodavies).
 
-_(Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/fund-camp-a-civic-crowdfunding-workshop-for-non-profits).)_
+_(Cross-posted at [civic.mit.edu](http://civic.mit.edu/blog/rodrigodavies/fund-camp-a-crowdfunding-workshop-for-non-profits).)_
