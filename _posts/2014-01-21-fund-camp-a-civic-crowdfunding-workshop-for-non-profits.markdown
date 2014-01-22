@@ -53,8 +53,7 @@ Next I asked the group to take a few minutes to answer four questions, based on 
 
 Each person shared their answers and the rest of the group asked questions and made suggestions. We found that the act of having to synthesize these ideas into a sentence was useful – because it was hard to do. 
 
-Very quickly it became clear that in some cases the initial description of the campaign was focused not the problem being solved, but the solution being offered. It's a common issue in design processes, for sure, but one that's especially important in civic projects. If we want to have social impact, we have to be sure of exactly what the need or problem is that we're addressing, and let that lead the idea generation, not our interest in a preconceived outcome that's exciting to us –
-such as an impressive building or a beautiful park.
+A couple of times we found that the answer to question one needed the most discussion – to refocus the answer on the problem being solved instead of the solution that seemed to be at hand. It's a common issue in design processes, for sure, but one that's especially important in civic projects. If we want to have social impact, we have to be sure of exactly what the need or problem is that we're addressing, and let that lead the idea generation, not our interest in a preconceived outcome that's exciting to us – such as an impressive building or a beautiful park.
 
 The final question – what next? – helped us to have a discussion about the longer-term goals each person had. That didn't mean that they were going to become career crowdfunders, although developing a literacy around fundraising is valuable, but rather thinking about how this particular crowdfunded campaign would boost their community's self-belief and make its members feel positive about pursuing other goals such as starting new activity groups, building relationships between neighborhoods or advocating for better support from the city.
 
