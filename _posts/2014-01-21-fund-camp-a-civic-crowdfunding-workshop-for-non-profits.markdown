@@ -12,7 +12,7 @@ tags:
 - civic crowdfunding
 ---
 
-_[![Logo by Rodrigo Davies]({{base.url}}/img/fundcamp.png)]({{base.url}}/img/fundcamp.png)_
+_[![Logo by Rodrigo Davies]({{site.baseurl}}/img/fundcamp.png)]({{base.url}}/img/fundcamp.png)_
 
 Today in Kansas City I hosted [Fund Camp](http://rodrigodavies.com/civiccrowdfunding/2014/01/16/fund-camp-kc/), a workshop for non-profits on what civic crowdfunding is, how to decide whether it's the right path for a project and how to do it effectively. It's a format I've been working on for the past year, informed by [my research](http://rodrigodavies.com/civiccrowdfunding) and the issues and challenges I've seen arise across many civic projects.
 
@@ -20,7 +20,7 @@ A small group of us gathered at Bauer Studios in the Crossroads neighborhood to 
 
 After some personal introductions and background on the non-profit sector work everyone around the table had been involved with, I began by explaining why I think civic crowdfunding is very different from crowdfunding a consumer product. 
 
-<img src="{{base.url}}/img/fundcamp1.jpg" class="horizimg">
+<img src="{{site.baseurl}}/img/fundcamp1.jpg" class="horizimg">
 
 These differences bring with them both challenges and opportunities. 
 
@@ -36,7 +36,7 @@ We then moved onto a three-part framework for thinking about what makes a great 
 
 I introduced three key questions I think every potential civic crowdfunder should ask: 
 
-<img src="{{base.url}}/img/fundcamp4.jpg" class="horizimg">
+<img src="{{site.baseurl}}/img/fundcamp4.jpg" class="horizimg">
 
 These questions have a lot of layers. 
 
@@ -48,7 +48,7 @@ These questions have a lot of layers.
 
 Next I asked the group to take a few minutes to answer four questions, based on that framework, in one sentence each. 
 
-<img src="{{base.url}}/img/fundcamp_worksheet.jpg" class="horizimg">
+<img src="{{site.baseurl}}/img/fundcamp_worksheet.jpg" class="horizimg">
 
 Each person shared their answers and the rest of the group asked questions and made suggestions. We found that the act of having to synthesize these ideas into a sentence was useful – because it was hard to do. 
 
