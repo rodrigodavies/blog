@@ -109,7 +109,9 @@ blackstratblues - cowboys and indians
 <br> ananda shankar - dancing drums
 <br> maker - mango lassi
 
-**After The Head Rush III (April 2011) - coming soon**
+**After The Head Rush III (April 2011)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fafter-the-head-rush-iii%2F&amp;embed_type=widget_standard&amp;embed_uuid=1604c74a-ef66-4dc3-b19c-d8025fa5005a&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 thelonius monk - evidence
 <br> ben folds five - your most valuable possession
@@ -124,7 +126,9 @@ thelonius monk - evidence
 <br> donald byrd - night whistler
 <br> serge gainsbourg - la javanaise
 
-**After The Head Rush II (October 2010) - coming soon**
+**After The Head Rush II (October 2010)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fafter-the-head-rush-ii%2F&amp;embed_type=widget_standard&amp;embed_uuid=30cda54b-4c32-4afd-b25e-ac0ad3394274&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 junior boys – high come down
 <br> four tet – she just wants to fight
@@ -136,7 +140,9 @@ junior boys – high come down
 <br> christopher o’riley – everything in its right place
 <br> santo and johnny – tear drop
 
-**After The Head Rush I (February 2008) - coming soon**
+**After The Head Rush I (February 2008)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fafter-the-head-rush-i%2F&amp;embed_type=widget_standard&amp;embed_uuid=5d08a33c-cf02-4c6c-8e8d-c6ffe576264d&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 aphex twin – bbydhonchord
 <br> stateless – bloodstream (pilooski edit)
@@ -147,7 +153,9 @@ aphex twin – bbydhonchord
 <br> cosmo vitelli – the sleep lab
 <br> edith piaf – sous le ciel de paris
 
-**Dreams (2008) - coming soon**
+**Dreams (2008)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fdreams%2F&amp;embed_type=widget_standard&amp;embed_uuid=90ca185f-0bea-4972-a9be-63e40c2e3e06&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 imagination - just an illusion (lindstrom vocal remix)
 <br> low motion disco - love love love (aeroplane mix)
@@ -163,7 +171,9 @@ imagination - just an illusion (lindstrom vocal remix)
 <br> invisible conga people - cable dazed
 <br> quiet village - pillow talk
 
-**Psychedisco (2008) - coming soon**
+**Psychedisco (2008)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fpsychaedisco%2F&amp;embed_type=widget_standard&amp;embed_uuid=2c2cbecc-954d-4a01-915a-e7ab9302901f&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 rufus wainwright - tiergarten (supermayer's supermess mix)
 <br> botox - babylon by car (richard sen mix)
@@ -204,7 +214,9 @@ Crazy gang - Telephone computer
 <br> Bell X1 -  Flame (chicken lips mix)
 <br> Bumblebee Unlimited - Ladybug
 
-**High Maintenance Volume I (January 2008)** - coming soon
+**High Maintenance Volume I (January 2008)**
+
+<iframe width="100%" height="180" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Frodrigodavies%2Fhigh-maintenance-volume-1%2F&amp;embed_type=widget_standard&amp;embed_uuid=f06483a5-14b9-4192-890a-7af0423b9c68&amp;hide_tracklist=1&amp;hide_cover=1" frameborder="0"></iframe>
 
 sebastien tellier - sexual sportswear
 <br> lcd soundsystem - get innocuous
