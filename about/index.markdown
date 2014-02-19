@@ -17,5 +17,5 @@ My research interests are the use of [crowdfunding for civic projects](http://ww
 
 Previously I was a Summer Innovation Fellow at the San Francisco [Mayor's Office of Civic Innovation](http://www.innovatesf.com), advised the London-based crowdfunding platform [Spacehive](http://www.spacehive.com) and was a consultant to the United Nations Development Program. I have also worked with [GQ India](http://www.gqindia.com), the BBC and Bloomberg (see my [LinkedIn](http://www.linkedin.com/in/rodrigodavies) profile).
 
-In my spare time I am one third of [The Idiots](http://mumbaiboss.com/2010/10/29/idiotville/) DJ collective, and we maintain a
+In my spare time I am one third of the [Idioterne](http://mumbaiboss.com/2010/10/29/idiotville/) DJ collective, and we maintain a
 [Spotify playlist](http://open.spotify.com/user/rodrigodavies/playlist/08hQfk1B8TP6vvof4c75ze) that you can subscribe to (if you're in one of the 15 countries the platform operates in). You can also [stream some of my previous live DJ sets and recorded mixes](/blog/music/).
