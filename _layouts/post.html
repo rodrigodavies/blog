@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
+<div class="post">
+
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
 	{{ content }}
-
-  <div>
+</div>
 
 {% if page.comments %}
   <div id="disqus_thread"></div>
@@ -41,5 +41,4 @@ layout: default
                 <a href="{{ site.baseurl }}{{page.next.url}}" title="{{ site.baseurl }}{{page.next.title}}">Next Post: {{page.next.title}} &raquo; </a> 
              {% endif %} 
             </div> 
-          </div> }
-}
+          </div> 

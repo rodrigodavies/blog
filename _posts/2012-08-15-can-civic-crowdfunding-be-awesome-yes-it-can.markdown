@@ -11,7 +11,7 @@ tags:
 - crowdfunding
 - crowdsourcing
 - ethan zuckerman
-- glyn coch
+- Glyncoch
 - spacehive
 ---
 
