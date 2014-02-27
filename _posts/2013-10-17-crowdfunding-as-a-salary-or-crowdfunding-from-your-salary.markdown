@@ -8,7 +8,7 @@ title: Crowdfunding as a salary, or crowdfunding from your salary
 wordpress_id: 844
 ---
 
-![](https://si0.twimg.com/profile_images/2406598046/4gh37s9dqof8nyj1cmyd.png)Sustainability is one of the biggest questions marks around crowdfunding and its long-term viability. Campaigns are framed intentionally as time-limited, one time opportunities - a form of gamification that creates urgency and momentum. But once the fanfare of the campaign is over, who will pay for the ongoing running costs of the project? It's a major, as yet unanswered question for civic crowdfunding.
+![]({{site.baseurl}}/img/gittip.png) Sustainability is one of the biggest questions marks around crowdfunding and its long-term viability. Campaigns are framed intentionally as time-limited, one time opportunities - a form of gamification that creates urgency and momentum. But once the fanfare of the campaign is over, who will pay for the ongoing running costs of the project? It's a major, as yet unanswered question for civic crowdfunding.
 
 It's also a major question for people who are hoping to make a living out of the types of creative projects the commercial market isn't funding, and for which crowdfunding is one of the least worst options - like open-source software. We know that [running a conventional crowdfunding campaign is usually a sub-minimum wage job](http://www.huffingtonpost.com/elizabeth-gerber/crowdfunding-fail-_b_2288099.html).
 
