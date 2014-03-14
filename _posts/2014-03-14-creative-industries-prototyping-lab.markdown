@@ -5,7 +5,7 @@ layout: post
 slug: creative-industries-prototyping-lab
 title: Introducing the Creative Industries Prototyping Lab
 description: 
-comments: yes
+comments: no
 tags:
 - CIPL
 - lima
