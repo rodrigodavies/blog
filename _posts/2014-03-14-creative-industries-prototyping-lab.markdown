@@ -15,7 +15,7 @@ tags:
 - creative industries prototyping lab
 ---
 
-![](../img/cipl.png)
+![]({{ site.baseurl }}/img/cipl.png)
 Do you know innovators in Latin America? Next month in Lima, Peru, I'll be co-hosting a three-day workshop for entrepreneurs in the creative industries, focused on design thinking, product development and fundraising.
 
 It's an exciting project called [Creative Industries Prototyping Lab](http://yolab.us/cipl), and applications to attend the workshop are open now. We're looking for entrepreneurs who already have the germ of a product or service idea, but are looking to refine their thinking and learn more about how to bring it to market. 
