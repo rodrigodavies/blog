@@ -9,7 +9,7 @@ wordpress_id: 323
 
 [![Rodrigo Davies - Photo by Nicole Freedman](rodrigo_hshot.png)](http://rodrigodavies.com/blog/wp-content/uploads/2012/01/rodrigo_hshot.png)This is a blog about how technology and media impact communities and governments, and the ways they are adapting to new challenges and opportunities. You can also read the [tweet](http://twitter.com/rodrigodavies)-length version.
 
-I'm based in Cambridge, Massachusetts as a Research Assistant at MIT's [Center for Civic Media](http://civic.mit.edu) and an MS student in the [Comparative Media Studies](http://cms.mit.edu) program.
+I'm based in Cambridge, Massachusetts as a Research Assistant at MIT's [Center for Civic Media](http://civic.mit.edu) and an MS student in the [Comparative Media Studies](http://cms.mit.edu) program. From Fall 2014, I'll be a doctoral student at Stanford in the [Work, Technology and Organizations group](http://www.stanford.edu/group/WTO) in the department of Management Science and Engineering. 
 
 My research interests are the use of [crowdfunding for civic projects](http://www.civiccrowdfunding.com), crowdsourcing in organizations, [ICT4D](http://en.wikipedia.org/wiki/Information_and_communication_technologies_for_development) and [user-centered design](http://calltoaction.mit.edu). My [current projects](../projects/) include a crowdfunding resarch group, a conference on new technologies for peacebuilding, and an interactive workshop for entrepreneurs in developing economies. Previously I've worked on projects such as [Call to Action](http://calltoaction.mit.edu), a design platform for VoIP services and [Fresh Food Boston](http://freshfoodboston.newurbanmechanics.org), a web and mobile platform to encourage the city's youth to eat healthily. 
 
