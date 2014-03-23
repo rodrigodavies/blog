@@ -21,7 +21,7 @@ tags:
 
 These three divergent intepretations are among the most common responses to civic crowdfunding. I hear them in one form or another almost every time I give a talk on the topic. Despite their differences, these interpretations are also, for the moment, coexisting quite happily. Platforms and the people who use them don't show much need to agree on what civic crowdfunding is for, or what kind of future its rise might foreshadow.
 
-So which one of them most accurately describes what's actually going on among the people funding civic projects? Earlier this week I presented a paper at the academic conference [_Place, (Dis)place and Citizenship_](http://clasweb.clas.wayne.edu/citizenship/2014Papers) at Wayne State University, Detroit, unpacking these three framings that we might use to interpret civic crowdfunding and looking closely at recent projects to find out which most closely resembles the dominant discourse around civic crowdfunding. 
+So which one of them most accurately describes what's actually going on among the people funding civic projects? Earlier this week I presented a paper at the academic conference [_Place, (Dis)place and Citizenship_](http://clasweb.clas.wayne.edu/citizenship/2014Papers) at Wayne State University, Detroit, unpacking the framings that we might use to interpret civic crowdfunding and looking closely at recent projects to find out which most closely resembles the dominant discourse around civic crowdfunding. 
 
 Here's how I described the three possible framings of civic crowdfunding: 
 
