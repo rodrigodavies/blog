@@ -26,7 +26,7 @@ So which one of them most accurately describes what's actually going on among th
 Here's how I described the three possible framings of civic crowdfunding: 
 
 1. **Community Agency**: that civic crowdfunding is based around collectives, brought together by geographic or interest-based ties, that pool economic and social capital to effect change.
-2. **Individual Agency**: that civic crowdfunding is driven by individuals seeking ownership of their environment for the purposes of entrepreneurial advancement, and reflects the increasing tendency of individuals to want to bear the responsibility and risk previously held by institutions.
+2. **Individual Agency**: that civic crowdfunding is driven by individuals seeking ownership of their environment in an entrepreneurial sense, and reflects the increasing tendency of individuals to bear responsibility and risk previously held by institutions.
 3. **Institutional Decline**: that civic crowdfunding is an outgrowth of financial strain among municipalities, and serves a libertarian agenda seeking the reduction of the role of government.
 
 To develop those framings, I analyzed the project pages of 274 campaigns collected from Citizinvestor, IOBY, Neighborly and Spacehive, finding common themes in the language project owners were using. You can hear the full discussion and presentation below, but here's an overview of what I found in the data: 
