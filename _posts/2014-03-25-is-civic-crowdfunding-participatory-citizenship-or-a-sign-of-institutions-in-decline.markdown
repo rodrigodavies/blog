@@ -23,7 +23,7 @@ These three divergent intepretations are among the most common responses to civi
 
 So which one of them most accurately describes what's actually going on among the people funding civic projects? Earlier this week I presented a paper at the academic conference [_Place, (Dis)place and Citizenship_](http://clasweb.clas.wayne.edu/citizenship/2014Papers) at Wayne State University, Detroit, unpacking these three framings that we might use to interpret civic crowdfunding and looking closely at recent projects to find out which most closely resembles the dominant discourse around civic crowdfunding. 
 
-I proposed three framings for civic crowdfunding: 
+Here's how I described the three possible framings of civic crowdfunding: 
 
 1. **Community Agency**: that civic crowdfunding is based around collectives, brought together by geographic or interest-based ties, that pool economic and social capital to effect change.
 2. **Individual Agency**: that civic crowdfunding is driven by individuals seeking ownership of their environment for the purposes of entrepreneurial advancement, and reflects the increasing tendency of individuals to want to bear the responsibility and risk previously held by institutions.
