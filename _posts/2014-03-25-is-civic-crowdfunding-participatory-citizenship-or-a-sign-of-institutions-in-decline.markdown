@@ -42,4 +42,4 @@ This is an early discussion, and is based on a small subset of the projects I've
 
 <iframe width="100%" height="400" src="//www.youtube.com/embed/qpJwGXAmZQg" frameborder="0" allowfullscreen></iframe>
 
-_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/rodrigodavies/)_
+_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/blog/rodrigodavies/is-crowdfunding-participatory-citizenship-or-a-sign-of-institutions-in-decline)_
