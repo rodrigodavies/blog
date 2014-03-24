@@ -25,7 +25,7 @@ Here's how it would work, if approved:
 
 * Hawaii 3R's selects the two projects for the pilot, in consultation with the Hawaii department of education.
 * Projects must be "initiated by a member of the community and approved by" the school concerned.
-* Hawaii donates matching funds to Hawaii 3R's up to a maximum of \$50,000 per project.
+* Hawaii donates matching funds to Hawaii 3R's up to a maximum of $50,000 per project.
 * 10% of the overall funds raised are donated to a Hawaii school that qualifies for Federal Financial Assistance. 
 
 The bill, sponsored by sponsored by Beth Fukumoto, Tom Brower, Richard Creagan, Aaron Ling Johanson and Lauren Matsumoto, has passed its first reading and has been referred to the education and finance committees.
