@@ -257,13 +257,14 @@ img {
 
 .site {  
   width: 95%;
-  margin: 10em auto 2em;
+  margin: 6em auto 2em;
 }
 
 .header {
   top: 0%;
   left: 0%;
   width: 100%;
+  padding: 5px 15px;
 }
 
 .header h1.title {
@@ -290,13 +291,14 @@ img {
 
 .site {  
   width: 95%;
-  margin: 7em auto 2em;
+  margin: 6em auto 2em;
 }
 
 .header {
   top: 0%;
   left: 0%;
   width: 100%;
+  padding: 5px 15px;
 }
 
 .header h1.title {
