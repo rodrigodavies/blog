@@ -28,7 +28,7 @@ Here's how it would work, if approved:
 * Hawaii donates matching funds to Hawaii 3R's up to a maximum of $50,000 per project.
 * 10% of the overall funds raised are donated to a Hawaii school that qualifies for Federal Financial Assistance. 
 
-The bill, sponsored by sponsored by Beth Fukumoto (R), Tom Brower (D), Richard Creagan (D), Aaron Ling Johanson (R) and Lauren Matsumoto (R), has passed its first reading and has been referred to the education and finance committees.
+The bill, sponsored by sponsored by [Beth Fukumoto](http://twitter.com/bethfukumoto) (R), Tom Brower (D), Richard Creagan (D), Aaron Ling Johanson (R) and [Lauren Matsumoto](http://twitter.com/laurencheape) (R), has passed its first reading and has been referred to the education and finance committees.
 
 The bill does five things that are quite interesting:
 
