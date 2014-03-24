@@ -47,4 +47,4 @@ Fifthly, it doesn't give either an estimate of the cost (the figure is blank, li
 
 I'm very interested to track the progress of the bill. If you're familiar with Hawaii's education system and have thoughts, I'd love to hear from you.
 
-_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/blog/rodrigodavies/)_
+_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/blog/rodrigodavies/hawaii-proposes-the-first-civic-crowdfunding-legislation)_
