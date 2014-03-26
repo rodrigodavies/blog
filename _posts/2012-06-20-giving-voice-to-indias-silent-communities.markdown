@@ -44,4 +44,4 @@ The team are planning to add functionality for tagging stories by subject and lo
 
 The CGNS concept is explained very neatly in this cartoon video:
 
-[youtube=http://www.youtube.com/watch?v=kbAFwZMs4vA]
+<iframe width="560" height="315" src="//www.youtube.com/embed/kbAFwZMs4vA" frameborder="0" allowfullscreen></iframe>
