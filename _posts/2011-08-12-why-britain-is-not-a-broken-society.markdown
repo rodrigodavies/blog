@@ -8,7 +8,7 @@ title: Why Britain is not a ‘broken’ society
 wordpress_id: 27
 ---
 
-[caption id="attachment_37" align="alignright" width="181" caption="Image: home_of_chaos"][![David Cameron graffiti](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/cameron.jpg)](http://rodrigodavies.com/blog/wp-content/uploads/2012/03/cameron.jpg)[/caption]
+<img src="http://rodrigodavies.com/blog/wp-content/uploads/2012/03/cameron.jpg" class="largeimg">
 
 A piece I wrote for the Mumbai foreign policy think tank Gateway House on Britain's response to the London Riots.
 
