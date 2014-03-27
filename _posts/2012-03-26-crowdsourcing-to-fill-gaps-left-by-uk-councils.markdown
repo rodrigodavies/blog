@@ -13,7 +13,7 @@ tags:
 - spacehive
 ---
 
-[caption id="" align="alignright" width="322" caption="Image: Spacehive.com"]![Spacehive](http://spacehive.com/Content/images/about/highstreet.jpg)[/caption]
+![Spacehive](http://spacehive.com/Content/images/about/highstreet.jpg)
 
 A private sector group in the UK has set up what it's calling "the world's first funding platform for neighbourhood improvement projects" in order to fill the gap left by cuts in local council spending.
 
@@ -21,4 +21,4 @@ A private sector group in the UK has set up what it's calling "the world's first
 
 The first Spacehive project is a community center for the ex-mining town of Glyncoch in South Wales - a £792,000 project. The largest donation was £12,000 (given by Tesco), while the center attracted funds from as far away as Newfoundland, from where a donor of Welsh descent pledged £100.
 
-It'll be interesting to see where this platform goes - and what the government thinks about it. Is this the elusive Big Society? And is it really the _world's first_ funding platform for neighbourhood projects?
+It'll be interesting to see where this platform goes - and what the government and public agencies think about it. Is this the elusive Big Society? And is it really the _world's first_ funding platform for neighbourhood projects? There's certainly a long pre-internet history of this type of work; it'll be interesting to see how crowdfunding fits into that.
