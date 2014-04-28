@@ -14,7 +14,7 @@ tags:
 - pollada
 - cevichada
 ---
-![]({{ site.baseurl }}/img/chicken.png)
+![https://www.flickr.com/photos/izik/2610556819/]({{ site.baseurl }}/img/chicken.png)
 
 There’s a tradition in Peru called the *pollada* – literally, a chicken party. These parties perform a very important social function. Say I’m about to have a child and I’m worried about how I’m going to pay education or healthcare bills. I hold a pollada to raise money by inviting friends and family around for chicken and beers, and selling tickets to the event. The tickets are usually priced fairly highly. The friends who come to my party are willing to pay more than they would normally, because they know they’re contributing to my family's welfare. Together, we fund the future of my family’s education. And we eat. And we bond. We form our own little crowd.
 
