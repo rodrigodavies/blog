@@ -49,4 +49,4 @@ To really understand what’s going on, especially over the longer term, we need
 
 Finally, we need more socially-grounded research in this space. It's one of the things I'm going to be spending my time on at Stanford over the next five years. I'm excited about advancing qualitative inquiry to support the quantitative analysis we’re doing, research that helps us understand how crowdfunding is changing the ways that organizations and the people within them work. We know crowdfunding is not just a numbers game, it’s a very human and complex game, and I look forward to continuing to help us understand it better.
 
-_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/blog/rodrigodavies/civic-crowdfunding-four-things-we-know-two-things-we-dont)_
+_[(Cross-posted at civic.mit.edu)](http://civic.mit.edu/blog/rodrigodavies/civic-crowdfunding-%E2%80%93-four-things-we-know-two-things-we-dont)_
