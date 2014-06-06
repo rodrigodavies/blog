@@ -265,6 +265,7 @@ img {
   left: 0%;
   width: 100%;
   padding: 1px 15px;
+  position: relative;
 }
 
 .header h1.title {
