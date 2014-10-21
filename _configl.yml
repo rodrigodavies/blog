@@ -1,0 +1,11 @@
+name: Rodrigo Davies
+# markdown: redcarpet
+pygments: highlighter
+baseurl: ''
+exclude: ["public", "Gemfile", "config.ru"]
+destination: public
+
+url: http://www.rodrigodavies.com/blog
+
+description: A blog about how technology and media impact communities and governments, and the ways they are adapting to new challenges and opportunities.
+keywords: crowdfunding, communities, media, civic, civic crowdfunding, mit, rodrigo, davies, rodrigodavies
