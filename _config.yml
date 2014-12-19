@@ -1,5 +1,5 @@
 name: Rodrigo Davies
-# markdown: redcarpet
+markdown: redcarpet
 pygments: highlighter
 baseurl: /blog
 exclude: ["public", "Gemfile", "config.ru", "Rakefile"]
