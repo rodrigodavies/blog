@@ -1,0 +1,45 @@
+---
+author: rodrigodavies
+date: 2015-04-28 09:00:01+00:00
+layout: post
+slug: is-airbnb-a-civic-peace-tech-company
+title: Is Airbnb a civic tech company, a peace tech company, or neither?
+description: Provocative comments by Mark Nelson and Adrian Fenty about Airbnb annoyed some in the civic and peace tech communities. But they raise important issues such as whether civic and peace tech organizations are putting real problems first, and what those organizations can learn from the for-profit sector.
+comments: yes
+tags:
+- civic tech
+- peace tech
+- Build Peace
+- Civic Tech
+- Neighborly
+---
+
+![]({{ site.baseurl }}/img/airbnb.png)
+
+In the past two weeks, I've been to two events at which a speaker suggested Airbnb is a de facto social impact technology company. 
+
+On April 14, former DC mayor [Adrian Fenty](http://twitter.com/amfenty) included Airbnb in a map of civic technology companies that [Andreessen Horowitz](http://a16z.com) (whom he advises) has invested in in a presentation at Civic Hall in New York. Eleven days later, in Nicosia, Cyprus, [Mark Nelson of the Stanford Peace Innovation Lab](http://twitter.com/mark__nelson) suggested in a [Build Peace](http://howtobuildpeace.org) panel that Airbnb was the largest peace technology company in the world, because it enables users to stay in the homes of strangers from other cultures (Full disclosure: I am a co-director of [Build Up](http://howtobuildup.org), which organizes Build Peace).
+
+Adrian and Mark's comments were divisive in two strikingly similar ways.
+
+First, some people felt the comparison was lazy, and risked diluting their field's identity.
+
+In some ways I empathize with this point of view. It's possible, but unproven that Airbnb's success has led to greater cross-cultural and cross-racial contact, and therefore has promoted peaceful international relations. On the other hand, use of the platform could replicate existing cultural ties or encourage homophily, a trend that [Ethan Zuckerman has observed among many online communities](http://www.ethanzuckerman.com/blog/rewire-digital-cosmopolitans-in-the-age-of-connection). Are white hosts are more likely to receive white guests than those of other races, or is the opposite true? I don't know the answer, and can't form an opinion on racial and cultural interaction on Airbnb without looking at the data. We should ask questions and seek data before lionizing Airbnb for something to which even the company itself does not lay claim. Similarly, we should decide on indicators of the civic role that Airbnb might play before giving the platform another unasked-for label. We might ask a question like "Are Airbnb guests more likely to talk positively about their host city as a result of using the platform than hotel guests?" Civic technologists and peacebuilders could learn a lot from a dataset as rich as Airbnb's by asking hard questions that are core to those fields. Doing so will put all of us in a stronger position to make provocative claims without being accused of losing sight of a field's identity and mission.
+
+Second, some were irritated by what they perceived as an attempt to steer their field towards for-profit business models at the expense of work for which the ROI is much harder to quantify.
+
+I won't get into the complexity of measuring impact and ROI and impact in civic and peacebuilding projects here (that's a vast subject), but I think almost everyone can acknowledge that not all civic and peacebuilding projects are capable of being for-profit enterprises. Neither do I think that either Adrian or Mark was suggesting that all projects should be structured as for-profit businesses. Rather, I take from their comments two important observations: first, that there is a lot that civic and peace tech companies can learn from the success of private sector tech startups, and second, that in many cases outcomes like peace and civic engagement are secondary outcomes that result from improving people's quality of life, and that those improvements are the space in which we should be spending much more of our time. There are plenty of folks in civic and peace tech who should be paying attention to these observations, and who are evidently not doing so.
+
+**Are you learning?**
+
+Let's start with what civic and peace tech companies can learn from startups. Ideas that are considered necessary for survival as a private sector tech startup are often absent from civic and peace tech projects. Authentic [user-centered design](https://www.gov.uk/service-manual/user-centred-design) is hard to do when your organization or sponsor is a vast bureaucracy with a hierarchical culture. [Agile software development](http://agilemanifesto.org) is almost impossible when you have an RFP process that looks like it was written by the 19th century British civil service. Civic tech is making great progress in changing culture and process from within and outside bureaucracies, thanks to awesome organizations like [18F](http://18f.gsa.gov), [Code for America](http://codeforamerica.org) and the [US Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service). Peace tech seems to be having a much harder time modernizing. That's not wholly surprising, since peacebuilding has been around for longer, and hierarchical, bureacratic culture permeates down from large institutions to smaller organizations as a result of funding relationships. That dynamic is less common in civic tech because government funding of civic tech is a pretty recent phenomenon. There are of course some peacebuilding organizations, large and small, that are embracing flexible, modern ways of working, but making this transition is difficult. Done right, these methods challenge conventional organizational structures. But the results in technology projects speak for themselves.
+
+The modernizers in civic and peace tech aren't all for-profit organizations – they're picking the best methods that have been proven in the for-profit sector and adapting them to their mission. If you're building a piece of software, you need a robust product development paradigm whether or not that application users are sharing photos, participating in conflict resolution, or contributing to their community. Following the practices the for-profit sector takes for granted will also give you a much wider selection of talent to work with, instead of being restricted to the pool of contractors who have spent more time learning the art of government / development procurement jujitsu than the job you're hiring them for. Guess what? That probably means lower costs.
+
+**Let the problem serve the mission**
+
+Now, what about the assumption that peace or civic engagement should be the primary objective of a peace or civic tech company? Is Airbnb excluded from being a civic or peace tech company because its primary mission is neither civic engagement nor peace? I don't think so. At [Neighborly](http://neighborly.com), we're passionate about civic engagement, reconnecting people and cities and helping to build better public infrastructure. But we're not building a civic engagement platform. [We're building a community investment marketplace to allow people to invest in their city through municipal bonds](http://neighborly.com/how-it-works). Our goal is to bring low-risk tax-free investment opportunities that are currently dominated by the wealthy to everyone, and to drastically reduce the amount that cities pay to finance infrastructure by giving them an alternative to the manifold gatekeepers and middlemen they currently have to work with. We believe that solving those two problems will increase civic engagement and make cities more resilient in the long run.
+
+I believe that's the way it should be for any civic or peace tech company. Start with the problem you're addressing, not your desire to deliver a more peaceful world or a more civically engaged population. You can't solve peace or civic engagement because neither is a single problem. They're both, quite obviously, made up of thousands of interconnected problems. If you pick one of those problems and you do your job well, you'll be doing the best you can to help create a more peaceful and engaged world. You'll be a peace tech company or a civic tech company, and not just because that's a label you apply to your work. Don't be another civic engagement platform or peacebuilding platform solution in search of a problem.
+
+So is Airbnb a civic or a peace tech company? It didn't set out to solve a civic or peace-related problem, but it may be doing so. We shouldn't rule out that possibility. We should just ask better questions. If Airbnb isn't increasing civic engagement and/or promoting peace but you believe it could, offer to partner and help the company realize its potential. On the other hand, if Airbnb is leading to a more civically engaged, peaceful world, ask yourself what their team is doing that your organization is not. 
