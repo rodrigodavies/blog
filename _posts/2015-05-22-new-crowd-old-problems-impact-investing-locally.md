@@ -14,7 +14,7 @@ tags:
 - Neighborly
 ---
 
-Earlier this week I gave a talk at [Stanford's Center for Philanthropy and Civil Society](http://pacscenter.stanford.edu), publishers of the [Stanford Social Innovation Review](http://ssireview.org), on civic crowdfunding. I was excited to share how my research into crowd-based community finance has evolved, and how Neighborly's launch this summer will make impact investing a local reality for the first time in the US. Here's the talk.
+Earlier this week I gave a talk at [Stanford's Center for Philanthropy and Civil Society](http://pacscenter.stanford.edu), publishers of the [Stanford Social Innovation Review](http://ssireview.org), on civic crowdfunding. I was excited to share how my research into crowd-based community finance has evolved, and how [Neighborly](http://neighborly.com)'s launch this summer will make impact investing a local reality for the first time in the US. Here's the talk.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bofDUZy5whA" frameborder="0" allowfullscreen></iframe>
 
