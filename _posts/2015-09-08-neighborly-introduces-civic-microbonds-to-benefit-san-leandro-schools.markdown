@@ -19,7 +19,7 @@ tags:
 - Neighborly
 ---
 
-*(cross-posted from [blog.neighborly.com](blog.neighborly.com/news/neighborly-introduces-civic-microbonds))*
+*(cross-posted from [blog.neighborly.com](http://blog.neighborly.com/news/neighborly-introduces-civic-microbonds))*
 
 <img class="horizimg" src="{{ site.baseurl }}/img/san_leandro_high_school_sold.jpg">
 
