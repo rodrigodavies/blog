@@ -5,7 +5,7 @@ task :deploy do
   server = 'kneecap.dreamhost.com'
   path = '/home/roddav/rodrigodavies.com/'
   puts 'Building...'
-  sh "jekyll build"
+  sh "bundle exec jekyll build"
   puts 'Built. Uploading...'
   sh "rsync -rtzh public/ #{user}@#{server}:#{path}"
   puts 'Changes Up.'
@@ -19,5 +19,5 @@ task :commit do
 
 task :local do
   puts 'Building with local params'
-  sh "jekyll build --config='_configl.yml' --watch"
+  sh "bundle exec jekyll build --config='_configl.yml' --watch"
 end
