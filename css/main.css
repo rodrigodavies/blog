@@ -64,8 +64,8 @@ ul.posts span {
 .site {
   font-family: inherit;
   font-size: 1.2em;
-  width: 38em;
-  margin: 1.8em auto 2em;
+  width: 29em;
+  margin: 1.4em auto 2em;
 }
 
 .header {
@@ -73,7 +73,7 @@ ul.posts span {
   position: fixed;
   top: 0%;
   left: 0%;
-  width: 17%;
+  width: 12em;
   padding: 15px 15px;
   opacity: 0.96;
   background: #fff;
@@ -228,7 +228,7 @@ img {
 .horizimg {
   border-radius: 0;
   float: none;
-  width: 40em;
+  width: 100%;
   margin: 0;
 }
 
@@ -257,14 +257,14 @@ img {
 
 .site {  
   width: 95%;
-  margin: 8em auto 2em;
+  margin: 0 auto 2em;
 }
 
 .header {
   top: 0%;
   left: 0%;
   width: 100%;
-  padding: 1px 15px;
+  padding: 6px 15px;
   position: relative;
 }
 
@@ -288,27 +288,28 @@ img {
 
 /* Tablets and horizontal phones */
 
-@media (min-width: 481px) and (max-width: 979px) {
+@media (min-width: 481px) and (max-width: 1150px) {
 
-.site {  
-  width: 95%;
-  margin: 8em auto 2em;
-}
+  .site {  
+    width: 97%;
+    margin: 0 auto 2em;
+  }
 
-.header {
-  top: 0%;
-  left: 0%;
-  width: 100%;
-  padding: 2px 15px;
-}
+  .header {
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    padding: 6px 15px;
+    position: relative;
+  }
 
-.header h1.title {
-  margin: 1em 0 0 0;
-}
+  .header h1.title {
+    margin: 1em 0 0 0;
+  }
 
-.header .extra, .header .page_head {
-  margin: 0;
-}
+  .header .extra, .header .page_head {
+    margin: 0;
+  }
 
 }
 
