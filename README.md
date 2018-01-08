@@ -1,3 +1,5 @@
+> This project is no longer being maintained. I've moved [my blogging and all past posts to Medium](https://medium.com/@rodrigodavies).
+
 My blog
 ====
 
